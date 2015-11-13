@@ -1,0 +1,1587 @@
+10001;Avalon;Parti lib�ral du Canada;Andrews;Scott
+10001;Avalon;Le Parti Vert du Canada;Crowder;Matt
+10001;Avalon;Ind�pendant;Dawe;Randy Wayne
+10001;Avalon;Nouveau Parti d�mocratique;Fuchs;Matthew Martin
+10001;Avalon;Parti conservateur du Canada;Manning;Fabian
+10002;Bonavista--Gander--Grand Falls--Windsor;Nouveau Parti d�mocratique;Bridger;Clyde
+10002;Bonavista--Gander--Grand Falls--Windsor;Parti conservateur du Canada;Hynes;Aaron
+10002;Bonavista--Gander--Grand Falls--Windsor;Le Parti Vert du Canada;Kenny;Robyn
+10002;Bonavista--Gander--Grand Falls--Windsor;Parti lib�ral du Canada;Simms;Scott
+10003;Humber--St. Barbe--Baie Verte;Ind�pendant;Bennett;Wayne R.
+10003;Humber--St. Barbe--Baie Verte;Parti lib�ral du Canada;Byrne;Gerry
+10003;Humber--St. Barbe--Baie Verte;Le Parti Vert du Canada;Gosse;Robin Blair
+10003;Humber--St. Barbe--Baie Verte;Nouveau Parti d�mocratique;Senior;Shelley
+10003;Humber--St. Barbe--Baie Verte;Parti conservateur du Canada;Taylor;Trevor
+10004;Labrador;Le Parti Vert du Canada;Barrett;George C.R.
+10004;Labrador;Nouveau Parti d�mocratique;Larkin;Jacob
+10004;Labrador;Parti conservateur du Canada;Penashue;Peter
+10004;Labrador;Parti lib�ral du Canada;Russell;Todd
+10005;Random--Burin--St. George's;Parti lib�ral du Canada;Foote;Judy
+10005;Random--Burin--St. George's;Le Parti Vert du Canada;Gutmanis;Tanya
+10005;Random--Burin--St. George's;Nouveau Parti d�mocratique;Magalios;Stella
+10005;Random--Burin--St. George's;Parti conservateur du Canada;Ottenheimer;John
+10006;St. John's-Est;Parti lib�ral du Canada;Allan;John
+10006;St. John's-Est;Parti conservateur du Canada;Byrne;Jerry
+10006;St. John's-Est;Nouveau Parti d�mocratique;Harris;Jack
+10006;St. John's-Est;Le Parti Vert du Canada;Miller;Robert
+10007;St. John's-Sud--Mount Pearl;Le Parti Vert du Canada;Austin;Rick
+10007;St. John's-Sud--Mount Pearl;Nouveau Parti d�mocratique;Cleary;Ryan
+10007;St. John's-Sud--Mount Pearl;Parti lib�ral du Canada;Coady;Siobhan
+10007;St. John's-Sud--Mount Pearl;Parti conservateur du Canada;Sullivan;Loyola
+11001;Cardigan;Nouveau Parti d�mocratique;Cudmore;Lorne
+11001;Cardigan;Parti conservateur du Canada;Currie;Mike
+11001;Cardigan;Parti lib�ral du Canada;MacAulay;Lawrence
+11001;Cardigan;Le Parti Vert du Canada;Stewart;Leslie
+11002;Charlottetown;Nouveau Parti d�mocratique;Byrne;Joe
+11002;Charlottetown;Parti lib�ral du Canada;Casey;Sean
+11002;Charlottetown;Parti de l'H�ritage Chr�tien du Canada;Judson;Baird
+11002;Charlottetown;Le Parti Vert du Canada;Knockwood;Eliza
+11002;Charlottetown;Parti conservateur du Canada;Profit;Donna
+11003;Egmont;Le Parti Vert du Canada;Arnold;Carl Anthony
+11003;Egmont;Parti lib�ral du Canada;Gallant;Guy
+11003;Egmont;Nouveau Parti d�mocratique;Robichaud;Jacquie
+11003;Egmont;Parti conservateur du Canada;Shea;Gail
+11004;Malpeque;Le Parti Vert du Canada;Bevan-Baker;Peter
+11004;Malpeque;Parti lib�ral du Canada;Easter;Wayne
+11004;Malpeque;Nouveau Parti d�mocratique;Jackson;Rita
+11004;Malpeque;Parti conservateur du Canada;Ogilvie;Tim
+12001;Cape Breton--Canso;Le Parti Vert du Canada;Carabin;Glen
+12001;Cape Breton--Canso;Parti lib�ral du Canada;Cuzner;Rodger
+12001;Cape Breton--Canso;Parti conservateur du Canada;Kennedy;Derrick Clarence
+12001;Cape Breton--Canso;Nouveau Parti d�mocratique;Simmons;Marney Jeanne
+12002;Nova-Centre;Le Parti Vert du Canada;Chisholm;Matthew
+12002;Nova-Centre;Parti lib�ral du Canada;Hamilton;John R.
+12002;Nova-Centre;Parti conservateur du Canada;MacKay;Peter G.
+12002;Nova-Centre;Nouveau Parti d�mocratique;Parker;David K.
+12003;Dartmouth--Cole Harbour;Nouveau Parti d�mocratique;Chisholm;Robert
+12003;Dartmouth--Cole Harbour;Parti lib�ral du Canada;Savage;Mike
+12003;Dartmouth--Cole Harbour;Le Parti Vert du Canada;Shreenan;Paul
+12003;Dartmouth--Cole Harbour;Parti conservateur du Canada;Webber;Wanda
+12004;Halifax;Le Parti Vert du Canada;Dewar;Michael
+12004;Halifax;Parti lib�ral du Canada;Kutcher;Stan
+12004;Halifax;Nouveau Parti d�mocratique;Leslie;Megan
+12004;Halifax;Parti conservateur du Canada;Nikolaou;George
+12004;Halifax;Parti Marxiste-L�niniste du Canada;Seed;Tony
+12005;Halifax-Ouest;Nouveau Parti d�mocratique;Ash;Gregor
+12005;Halifax-Ouest;Parti conservateur du Canada;Pretty;Bruce Robert
+12005;Halifax-Ouest;Parti lib�ral du Canada;Regan;Geoff
+12005;Halifax-Ouest;Le Parti Vert du Canada;Trappenberg;Thomas
+12006;Kings--Hants;Parti lib�ral du Canada;Brison;Scott
+12006;Kings--Hants;Parti conservateur du Canada;Morse;David
+12006;Kings--Hants;Le Parti Vert du Canada;Richardson;Sheila
+12006;Kings--Hants;Nouveau Parti d�mocratique;Rogers;Mark
+12007;Cumberland--Colchester--Musquodoboit Valley;Parti conservateur du Canada;Armstrong;Scott
+12007;Cumberland--Colchester--Musquodoboit Valley;Le Parti Vert du Canada;Blanch;Jason
+12007;Cumberland--Colchester--Musquodoboit Valley;Parti lib�ral du Canada;Burrows;Jim
+12007;Cumberland--Colchester--Musquodoboit Valley;Parti de l'H�ritage Chr�tien du Canada;Hnatiuk;Jim
+12007;Cumberland--Colchester--Musquodoboit Valley;Nouveau Parti d�mocratique;Robinson;Wendy
+12008;Sackville--Eastern Shore;Parti lib�ral du Canada;Hemming;Scott
+12008;Sackville--Eastern Shore;Parti conservateur du Canada;Mimnagh;Adam
+12008;Sackville--Eastern Shore;Le Parti Vert du Canada;Percy;John
+12008;Sackville--Eastern Shore;Nouveau Parti d�mocratique;Stoffer;Peter
+12009;South Shore--St. Margaret's;Nouveau Parti d�mocratique;Earle;Gordon
+12009;South Shore--St. Margaret's;Parti conservateur du Canada;Keddy;Gerald
+12009;South Shore--St. Margaret's;Le Parti Vert du Canada;MacLellan;Kris
+12009;South Shore--St. Margaret's;Parti lib�ral du Canada;Wells;Derek
+12010;Sydney--Victoria;Parti conservateur du Canada;Clarke;Cecil
+12010;Sydney--Victoria;Parti lib�ral du Canada;Eyking;Mark
+12010;Sydney--Victoria;Nouveau Parti d�mocratique;MacLeod;Kathy
+12010;Sydney--Victoria;Le Parti Vert du Canada;Milburn;Chris
+12011;Nova-Ouest;Nouveau Parti d�mocratique;Barron;George
+12011;Nova-Ouest;Le Parti Vert du Canada;Johnson;Ross
+12011;Nova-Ouest;Parti conservateur du Canada;Kerr;Greg
+12011;Nova-Ouest;Parti lib�ral du Canada;Thibault;Robert
+13001;Acadie--Bathurst;Parti lib�ral du Canada;Gionet;Jean Marie
+13001;Acadie--Bathurst;Nouveau Parti d�mocratique;Godin;Yvon
+13001;Acadie--Bathurst;Parti conservateur du Canada;Robichaud;Louis
+13002;Beaus�jour;Le Parti Vert du Canada;Arsenault;Natalie
+13002;Beaus�jour;Parti conservateur du Canada;Chapman;Evelyne
+13002;Beaus�jour;Parti lib�ral du Canada;LeBlanc;Dominic
+13002;Beaus�jour;Nouveau Parti d�mocratique;Levi-Peters;Susan
+13003;Fredericton;Parti conservateur du Canada;Ashfield;Keith
+13003;Fredericton;Le Parti Vert du Canada;Comeau;Louise Anna-Marie
+13003;Fredericton;Parti lib�ral du Canada;McKeen;Randy
+13003;Fredericton;Ind�pendant;Ness;Adam Scott
+13003;Fredericton;Nouveau Parti d�mocratique;Travis;Jesse
+13004;Fundy Royal;Le Parti Vert du Canada;Coburn;Stephanie
+13004;Fundy Royal;Parti conservateur du Canada;Moore;Rob
+13004;Fundy Royal;Nouveau Parti d�mocratique;Pitre;Darryl
+13004;Fundy Royal;Parti lib�ral du Canada;Wilhelm;Linda
+13005;Madawaska--Restigouche;Ind�pendant;B�rub�;Louis
+13005;Madawaska--Restigouche;Parti lib�ral du Canada;D'Amours;Jean-Claude JC
+13005;Madawaska--Restigouche;Nouveau Parti d�mocratique;Jules;Widler
+13005;Madawaska--Restigouche;Le Parti Vert du Canada;Morrison;Lynn
+13005;Madawaska--Restigouche;Parti conservateur du Canada;Valcourt;Bernard
+13006;Miramichi;Nouveau Parti d�mocratique;Colford;Patrick
+13006;Miramichi;Le Parti Vert du Canada;Mazerolle;Ronald
+13006;Miramichi;Parti conservateur du Canada;O'Neill Gordon;Tilly
+13006;Miramichi;Parti lib�ral du Canada;Vickers;Keith
+13007;Moncton--Riverview--Dieppe;Nouveau Parti d�mocratique;Gagn�;Shawna
+13007;Moncton--Riverview--Dieppe;Parti conservateur du Canada;Goguen;Robert
+13007;Moncton--Riverview--Dieppe;Parti lib�ral du Canada;Murphy;Brian
+13007;Moncton--Riverview--Dieppe;Le Parti Vert du Canada;Steeves;Steven
+13008;Nouveau-Brunswick-Sud-Ouest;Parti de l'H�ritage Chr�tien du Canada;Farris;Jason
+13008;Nouveau-Brunswick-Sud-Ouest;Nouveau Parti d�mocratique;Graham;Andrew
+13008;Nouveau-Brunswick-Sud-Ouest;Le Parti Vert du Canada;Harvey;Janice
+13008;Nouveau-Brunswick-Sud-Ouest;Parti conservateur du Canada;Williamson;John
+13008;Nouveau-Brunswick-Sud-Ouest;Parti lib�ral du Canada;Wilson;Kelly
+13009;Saint John;Parti lib�ral du Canada;Chase;Stephen
+13009;Saint John;Nouveau Parti d�mocratique;Moir;Rob
+13009;Saint John;Le Parti Vert du Canada;Murphy-Flatt;Sharon
+13009;Saint John;Ind�pendant;Watson;Arthur Jr.
+13009;Saint John;Parti conservateur du Canada;Weston;Rodney
+13010;Tobique--Mactaquac;Parti conservateur du Canada;Allen;Mike
+13010;Tobique--Mactaquac;Parti lib�ral du Canada;Chiasson;Chuck
+13010;Tobique--Mactaquac;Nouveau Parti d�mocratique;Cyr;Pierre
+13010;Tobique--Mactaquac;Le Parti Vert du Canada;McGlynn;Rish
+24001;Abitibi--T�miscamingue;Parti lib�ral du Canada;Grenon;Suzie
+24001;Abitibi--T�miscamingue;Parti conservateur du Canada;H�bert;Steven
+24001;Abitibi--T�miscamingue;Bloc Qu�b�cois;Lemay;Marc
+24001;Abitibi--T�miscamingue;Nouveau Parti d�mocratique;Moore;Christine
+24001;Abitibi--T�miscamingue;Le Parti Vert du Canada;Rochon;Patrick
+24002;Ahuntsic;Parti Rhinoc�ros;Berthiaume;Jean-Olivier
+24002;Ahuntsic;Parti lib�ral du Canada;Eloyan;Noushig
+24002;Ahuntsic;Parti conservateur du Canada;Kiryakidis;Constantin
+24002;Ahuntsic;Le Parti Vert du Canada;Kouretas;Ted
+24002;Ahuntsic;Bloc Qu�b�cois;Mourani;Maria
+24002;Ahuntsic;Nouveau Parti d�mocratique;Reeves;Chantal
+24003;Alfred-Pellan;Bloc Qu�b�cois;Carrier;Robert
+24003;Alfred-Pellan;Nouveau Parti d�mocratique;Dor� Lefebvre;Rosane
+24003;Alfred-Pellan;Parti lib�ral du Canada;Iacono;Angelo G.
+24003;Alfred-Pellan;Parti conservateur du Canada;Lefebvre;Pierre
+24003;Alfred-Pellan;Ind�pendant;Millette;R�gent
+24003;Alfred-Pellan;Le Parti Vert du Canada;Perceval-Maxwell;Dylan
+24004;Argenteuil--Papineau--Mirabel;Parti Marxiste-L�niniste du Canada;Ferlatte;Christian-Simon
+24004;Argenteuil--Papineau--Mirabel;Parti lib�ral du Canada;Fox;Daniel
+24004;Argenteuil--Papineau--Mirabel;Nouveau Parti d�mocratique;Freeman;Myl�ne
+24004;Argenteuil--Papineau--Mirabel;Ind�pendant;Guibord;Michel Daniel
+24004;Argenteuil--Papineau--Mirabel;Bloc Qu�b�cois;Laframboise;Mario
+24004;Argenteuil--Papineau--Mirabel;Le Parti Vert du Canada;Matthews;Stephen
+24004;Argenteuil--Papineau--Mirabel;Parti conservateur du Canada;Patry;Yvan
+24005;Beauce;Nouveau Parti d�mocratique;Bergeron;Serge
+24005;Beauce;Parti conservateur du Canada;Bernier;Maxime
+24005;Beauce;Le Parti Vert du Canada;Doyon Lessard;Etienne
+24005;Beauce;Parti lib�ral du Canada;Morin;Claude
+24005;Beauce;Bloc Qu�b�cois;Morin;Sylvio
+24006;Beauharnois--Salaberry;Parti conservateur du Canada;Couturier;David
+24006;Beauharnois--Salaberry;Bloc Qu�b�cois;DeBellefeuille;Claude
+24006;Beauharnois--Salaberry;Parti lib�ral du Canada;Deslandres;Fran�ois
+24006;Beauharnois--Salaberry;Le Parti Vert du Canada;Pelletier;R�mi
+24006;Beauharnois--Salaberry;Nouveau Parti d�mocratique;Quach;Anne Minh-Thu
+24007;Beauport--Limoilou;Parti conservateur du Canada;Boucher;Sylvie
+24007;Beauport--Limoilou;Parti lib�ral du Canada;Chartier;Lorraine
+24007;Beauport--Limoilou;Nouveau Parti d�mocratique;C�t�;Raymond
+24007;Beauport--Limoilou;Le Parti Vert du Canada;Courville;Louise
+24007;Beauport--Limoilou;Parti de l'H�ritage Chr�tien du Canada;Genest;Anne-Marie
+24007;Beauport--Limoilou;Bloc Qu�b�cois;L�tourneau;Michel
+24007;Beauport--Limoilou;Parti Marxiste-L�niniste du Canada;Moreau;Claude
+24008;Berthier--Maskinong�;Bloc Qu�b�cois;Andr�;Guy
+24008;Berthier--Maskinong�;Nouveau Parti d�mocratique;Brosseau;Ruth Ellen
+24008;Berthier--Maskinong�;Parti lib�ral du Canada;Gaudet;Francine
+24008;Berthier--Maskinong�;Parti conservateur du Canada;Godue;Marie-Claude
+24008;Berthier--Maskinong�;Parti Rhinoc�ros;Jubinville;Martin
+24008;Berthier--Maskinong�;Le Parti Vert du Canada;Matteau;L�onie
+24009;Bourassa;Parti conservateur du Canada;Azoulay;David
+24009;Bourassa;Le Parti Vert du Canada;Centazzo;Tiziana
+24009;Bourassa;Parti lib�ral du Canada;Coderre;Denis
+24009;Bourassa;Nouveau Parti d�mocratique;Demers;Julie
+24009;Bourassa;Bloc Qu�b�cois;Mailhot;Daniel
+24009;Bourassa;Parti Marxiste-L�niniste du Canada;Royer;Genevi�ve
+24010;Brome--Missisquoi;Bloc Qu�b�cois;Bogosta;Christelle
+24010;Brome--Missisquoi;Nouveau Parti d�mocratique;Jacob;Pierre
+24010;Brome--Missisquoi;Le Parti Vert du Canada;Lambert;Benoit
+24010;Brome--Missisquoi;Parti conservateur du Canada;LeBlanc-Bauerle;Nolan
+24010;Brome--Missisquoi;Parti lib�ral du Canada;Paradis;Denis
+24011;Brossard--La Prairie;Parti conservateur du Canada;Brossard;Maurice
+24011;Brossard--La Prairie;Parti Marxiste-L�niniste du Canada;Chouinard;Normand
+24011;Brossard--La Prairie;Bloc Qu�b�cois;Lussier;Marcel
+24011;Brossard--La Prairie;Nouveau Parti d�mocratique;Mai;Hoang
+24011;Brossard--La Prairie;Parti lib�ral du Canada;Mend�s;Alexandra
+24011;Brossard--La Prairie;Le Parti Vert du Canada;Murphy;Kevin
+24012;Chambly--Borduas;Parti lib�ral du Canada;DeLorme;Bernard
+24012;Chambly--Borduas;Nouveau Parti d�mocratique;Dub�;Matthew
+24012;Chambly--Borduas;Parti conservateur du Canada;Ferland Drolet;Nathalie
+24012;Chambly--Borduas;Le Parti Vert du Canada;Lescarbeau;Nicholas
+24012;Chambly--Borduas;Bloc Qu�b�cois;Lessard;Yves
+24012;Chambly--Borduas;Ind�pendant;Mercier;Jean-Fran�ois
+24013;Charlesbourg--Haute-Saint-Charles;Parti de l'H�ritage Chr�tien du Canada;Cormier;Simon
+24013;Charlesbourg--Haute-Saint-Charles;Nouveau Parti d�mocratique;Day;Anne-Marie
+24013;Charlesbourg--Haute-Saint-Charles;Parti lib�ral du Canada;Gaudreault;Martine
+24013;Charlesbourg--Haute-Saint-Charles;Bloc Qu�b�cois;Grenier;F�lix
+24013;Charlesbourg--Haute-Saint-Charles;Parti conservateur du Canada;Petit;Daniel
+24013;Charlesbourg--Haute-Saint-Charles;Le Parti Vert du Canada;Verret;Simon
+24014;Montmorency--Charlevoix--Haute-C�te-Nord;Le Parti Vert du Canada;B�dard;Fran�ois
+24014;Montmorency--Charlevoix--Haute-C�te-Nord;Parti conservateur du Canada;Castonguay;Michel-Eric
+24014;Montmorency--Charlevoix--Haute-C�te-Nord;Parti lib�ral du Canada;Gauthier;Robert
+24014;Montmorency--Charlevoix--Haute-C�te-Nord;Bloc Qu�b�cois;Guimond;Michel
+24014;Montmorency--Charlevoix--Haute-C�te-Nord;Nouveau Parti d�mocratique;Tremblay;Jonathan
+24015;Ch�teauguay--Saint-Constant;Nouveau Parti d�mocratique;Chicoine;Sylvain
+24015;Ch�teauguay--Saint-Constant;Bloc Qu�b�cois;Freeman;Carole
+24015;Ch�teauguay--Saint-Constant;Le Parti Vert du Canada;Kwan;Clara
+24015;Ch�teauguay--Saint-Constant;Parti lib�ral du Canada;Schwey;Linda
+24015;Ch�teauguay--Saint-Constant;Parti Marxiste-L�niniste du Canada;Sullivan;Linda
+24015;Ch�teauguay--Saint-Constant;Parti conservateur du Canada;Turc�t;Andr�
+24016;Chicoutimi--Le Fjord;Le Parti Vert du Canada;Bolduc-Tremblay;Charles-Olivier
+24016;Chicoutimi--Le Fjord;Bloc Qu�b�cois;Bouchard;Robert
+24016;Chicoutimi--Le Fjord;Parti Rhinoc�ros;Couture;Marielle
+24016;Chicoutimi--Le Fjord;Nouveau Parti d�mocratique;Morin;Dany
+24016;Chicoutimi--Le Fjord;Parti conservateur du Canada;N�ron;Carol
+24016;Chicoutimi--Le Fjord;Parti lib�ral du Canada;Pettersen;Marc
+24017;Compton--Stanstead;Bloc Qu�b�cois;Bonsant;France
+24017;Compton--Stanstead;Le Parti Vert du Canada;Caldwell;Gary
+24017;Compton--Stanstead;Parti conservateur du Canada;Gressard B�langer;Sandrine
+24017;Compton--Stanstead;Parti lib�ral du Canada;Hogg;William
+24017;Compton--Stanstead;Nouveau Parti d�mocratique;Rousseau;Jean
+24018;Drummond;Parti conservateur du Canada;Bernier;Normand W.
+24018;Drummond;Nouveau Parti d�mocratique;Choquette;Fran�ois
+24018;Drummond;Parti lib�ral du Canada;C�t�;Pierre
+24018;Drummond;Le Parti Vert du Canada;Fortin;Robin
+24018;Drummond;Bloc Qu�b�cois;Pomerleau;Roger
+24019;Gasp�sie--�les-de-la-Madeleine;Parti conservateur du Canada;Bastien;R�gent
+24019;Gasp�sie--�les-de-la-Madeleine;Bloc Qu�b�cois;C�t�;Daniel
+24019;Gasp�sie--�les-de-la-Madeleine;Parti lib�ral du Canada;Duguay;Jules
+24019;Gasp�sie--�les-de-la-Madeleine;Le Parti Vert du Canada;Leblanc;Julien
+24019;Gasp�sie--�les-de-la-Madeleine;Nouveau Parti d�mocratique;Toone;Philip
+24020;Gatineau;Nouveau Parti d�mocratique;Boivin;Fran�oise
+24020;Gatineau;Parti conservateur du Canada;Gearey;Jennifer
+24020;Gatineau;Parti lib�ral du Canada;MacKinnon;Steve
+24020;Gatineau;Le Parti Vert du Canada;Meijer;Jonathan
+24020;Gatineau;Bloc Qu�b�cois;Nadeau;Richard
+24021;Hochelaga;Nouveau Parti d�mocratique;Boutin-Sweet;Marjolaine
+24021;Hochelaga;Parti communiste du Canada;Breton Fontaine;Marianne
+24021;Hochelaga;Parti conservateur du Canada;Castonguay;Audrey
+24021;Hochelaga;Parti Marxiste-L�niniste du Canada;Dandenault;Christine
+24021;Hochelaga;Le Parti Vert du Canada;Delgado Dihigo;Yaneisy
+24021;Hochelaga;Bloc Qu�b�cois;Paill�;Daniel
+24021;Hochelaga;Parti Rhinoc�ros;Samson Veillette;Hugo
+24021;Hochelaga;Parti lib�ral du Canada;Thibodeau;Gilbert
+24022;Honor�-Mercier;Nouveau Parti d�mocratique;Ayala;Paulina
+24022;Honor�-Mercier;Parti Marxiste-L�niniste du Canada;B�dard;Jean-Paul
+24022;Honor�-Mercier;Le Parti Vert du Canada;B�rard;Ga�tan
+24022;Honor�-Mercier;Parti Rhinoc�ros;Chevrefils-Latulippe;Valery
+24022;Honor�-Mercier;Parti conservateur du Canada;Labelle;G�rard
+24022;Honor�-Mercier;Bloc Qu�b�cois;Laroche;Martin
+24022;Honor�-Mercier;Parti lib�ral du Canada;Rodriguez;Pablo
+24023;Hull--Aylmer;Parti conservateur du Canada;Brassard-Fortin;Nancy
+24023;Hull--Aylmer;Le Parti Vert du Canada;Fleury;Roger
+24023;Hull--Aylmer;Bloc Qu�b�cois;Lemay;Dino
+24023;Hull--Aylmer;Parti lib�ral du Canada;Proulx;Marcel
+24023;Hull--Aylmer;Nouveau Parti d�mocratique;Turmel;Nycole
+24024;Jeanne-Le Ber;Nouveau Parti d�mocratique;Benskin;Tyrone
+24024;Jeanne-Le Ber;Parti lib�ral du Canada;Bruneau;Mark
+24024;Jeanne-Le Ber;Parti conservateur du Canada;Lafontaine;Pierre
+24024;Jeanne-Le Ber;Le Parti Vert du Canada;No�l;Richard
+24024;Jeanne-Le Ber;Bloc Qu�b�cois;St-Cyr;Thierry
+24024;Jeanne-Le Ber;Parti Marxiste-L�niniste du Canada;Studd;Eileen
+24025;Joliette;Parti lib�ral du Canada;Boucher;Fran�ois
+24025;Joliette;Le Parti Vert du Canada;Durette;Annie
+24025;Joliette;Parti conservateur du Canada;Morand;Michel
+24025;Joliette;Bloc Qu�b�cois;Paquette;Pierre A.
+24025;Joliette;Nouveau Parti d�mocratique;Raynault;Francine
+24026;Jonqui�re--Alma;Le Parti Vert du Canada;Bergeron;France
+24026;Jonqui�re--Alma;Parti conservateur du Canada;Blackburn;Jean-Pierre
+24026;Jonqui�re--Alma;Bloc Qu�b�cois;Forest;Pierre
+24026;Jonqui�re--Alma;Nouveau Parti d�mocratique;Patry;Claude
+24026;Jonqui�re--Alma;Parti lib�ral du Canada;Ringuette;Claude
+24027;Lac-Saint-Louis;Nouveau Parti d�mocratique;Ackad;Alain
+24027;Lac-Saint-Louis;Parti lib�ral du Canada;Scarpaleggia;Francis
+24027;Lac-Saint-Louis;Parti conservateur du Canada;Smith;Larry
+24027;Lac-Saint-Louis;Bloc Qu�b�cois;Taillefer;�ric
+24027;Lac-Saint-Louis;Le Parti Vert du Canada;Tremblay;Bruno
+24028;La Pointe-de-l'�le;Bloc Qu�b�cois;Beaudry;Ginette
+24028;La Pointe-de-l'�le;Parti Marxiste-L�niniste du Canada;Brunelle;Claude
+24028;La Pointe-de-l'�le;Le Parti Vert du Canada;Cox;David J.
+24028;La Pointe-de-l'�le;Parti conservateur du Canada;Drolet;Mathieu
+24028;La Pointe-de-l'�le;Parti lib�ral du Canada;L. Coulombe;Olivier
+24028;La Pointe-de-l'�le;Nouveau Parti d�mocratique;P�clet;�ve
+24029;LaSalle--�mard;Le Parti Vert du Canada;Banville;Lorraine
+24029;LaSalle--�mard;Parti Rhinoc�ros;Berger-Richard;Guillaume
+24029;LaSalle--�mard;Bloc Qu�b�cois;Dubois;Carl
+24029;LaSalle--�mard;Nouveau Parti d�mocratique;LeBlanc;H�l�ne
+24029;LaSalle--�mard;Parti Marxiste-L�niniste du Canada;Le Seigle;Yves
+24029;LaSalle--�mard;Parti conservateur du Canada;Yu;Chang-Tao Jimmy
+24029;LaSalle--�mard;Parti lib�ral du Canada;Zarac;Lise
+24030;Laurentides--Labelle;Le Parti Vert du Canada;Beauchamp;Fran�ois
+24030;Laurentides--Labelle;Bloc Qu�b�cois;Deschamps;Johanne
+24030;Laurentides--Labelle;Parti conservateur du Canada;Joncas;Guy
+24030;Laurentides--Labelle;Parti lib�ral du Canada;Lacoste;Jean-Marc
+24030;Laurentides--Labelle;Nouveau Parti d�mocratique;Morin;Marc-Andr�
+24030;Laurentides--Labelle;Parti Marxiste-L�niniste du Canada;St-Louis;Mika�l
+24031;Laurier--Sainte-Marie;Le Parti Vert du Canada;Adam;Olivier
+24031;Laurier--Sainte-Marie;Parti lib�ral du Canada;Allard;Philippe
+24031;Laurier--Sainte-Marie;Parti communiste du Canada;Archambault;Sylvain
+24031;Laurier--Sainte-Marie;Bloc Qu�b�cois;Duceppe;Gilles
+24031;Laurier--Sainte-Marie;Parti Rhinoc�ros;Gourd;Fran�ois Yo
+24031;Laurier--Sainte-Marie;Parti Marxiste-L�niniste du Canada;Lachapelle;Serge
+24031;Laurier--Sainte-Marie;Parti conservateur du Canada;Langford;Charles K.
+24031;Laurier--Sainte-Marie;Nouveau Parti d�mocratique;Laverdi�re;H�l�ne
+24031;Laurier--Sainte-Marie;Ind�pendant;Mourkes;Dimitri
+24032;Laval;Parti Marxiste-L�niniste du Canada;Breton;Yvon
+24032;Laval;Bloc Qu�b�cois;Demers;Nicole
+24032;Laval;Le Parti Vert du Canada;Leduc;Jocelyne
+24032;Laval;Parti conservateur du Canada;Malo;Robert
+24032;Laval;Parti lib�ral du Canada;Nassif;Eva
+24032;Laval;Nouveau Parti d�mocratique;Nunez-Melo;Jos�
+24033;Laval--Les �les;Parti Pirate du Canada;Bakhos;St�phane
+24033;Laval--Les �les;Parti conservateur du Canada;Ghavitian;Zaki
+24033;Laval--Les �les;Bloc Qu�b�cois;Jetha;Mohamedali
+24033;Laval--Les �les;Parti lib�ral du Canada;Joizil;Karine
+24033;Laval--Les �les;Le Parti Vert du Canada;Neil;Brent
+24033;Laval--Les �les;Nouveau Parti d�mocratique;Pilon;Fran�ois
+24033;Laval--Les �les;Parti Marxiste-L�niniste du Canada;Tsakanikas;Polyvios
+24034;L�vis--Bellechasse;Parti conservateur du Canada;Blaney;Steven
+24034;L�vis--Bellechasse;Le Parti Vert du Canada;Doug�;Sacha
+24034;L�vis--Bellechasse;Bloc Qu�b�cois;Gosselin;Danielle-Maude
+24034;L�vis--Bellechasse;Parti lib�ral du Canada;Laforesterie;Francis
+24034;L�vis--Bellechasse;Nouveau Parti d�mocratique;Lalibert�;Nicole
+24035;Longueuil--Pierre-Boucher;Parti conservateur du Canada;B�lisle;Richard
+24035;Longueuil--Pierre-Boucher;Bloc Qu�b�cois;Dorion;Jean
+24035;Longueuil--Pierre-Boucher;Parti lib�ral du Canada;Falsafi;K�van
+24035;Longueuil--Pierre-Boucher;Nouveau Parti d�mocratique;Nantel;Pierre
+24035;Longueuil--Pierre-Boucher;Parti Marxiste-L�niniste du Canada;Patenaude;Serge
+24035;Longueuil--Pierre-Boucher;Le Parti Vert du Canada;St-Amant;Val�rie
+24036;Lotbini�re--Chutes-de-la-Chaudi�re;Le Parti Vert du Canada;Domm;Richard
+24036;Lotbini�re--Chutes-de-la-Chaudi�re;Nouveau Parti d�mocratique;Fredette;Tanya
+24036;Lotbini�re--Chutes-de-la-Chaudi�re;Bloc Qu�b�cois;Gourde;Gaston
+24036;Lotbini�re--Chutes-de-la-Chaudi�re;Parti conservateur du Canada;Gourde;Jacques
+24036;Lotbini�re--Chutes-de-la-Chaudi�re;Parti lib�ral du Canada;Larouche;Nicole
+24037;Louis-H�bert;Parti lib�ral du Canada;Beaupr�;Jean
+24037;Louis-H�bert;Nouveau Parti d�mocratique;Blanchette;Denis
+24037;Louis-H�bert;Parti de l'H�ritage Chr�tien du Canada;Bouffard;Marie-Claude
+24037;Louis-H�bert;Le Parti Vert du Canada;Fontaine;Michelle
+24037;Louis-H�bert;Bloc Qu�b�cois;Paill�;Pascal-Pierre
+24037;Louis-H�bert;Parti conservateur du Canada;Paul-Hus;Pierre
+24038;Louis-Saint-Laurent;Parti de l'H�ritage Chr�tien du Canada;Arseneault;Daniel
+24038;Louis-Saint-Laurent;Le Parti Vert du Canada;Cloutier;Jean
+24038;Louis-Saint-Laurent;Bloc Qu�b�cois;Gagn�;France
+24038;Louis-Saint-Laurent;Nouveau Parti d�mocratique;Latendresse;Alexandrine
+24038;Louis-Saint-Laurent;Parti lib�ral du Canada;M�rel;Philippe
+24038;Louis-Saint-Laurent;Parti conservateur du Canada;Verner;Jos�e
+24039;Manicouagan;Bloc Qu�b�cois;Asselin;G�rard
+24039;Manicouagan;Parti conservateur du Canada;Ferguson;Gordon
+24039;Manicouagan;Parti lib�ral du Canada;Forbes;Andr�
+24039;Manicouagan;Le Parti Vert du Canada;G�lineau;Jacques
+24039;Manicouagan;Nouveau Parti d�mocratique;Genest-Jourdain;Jonathan
+24040;Marc-Aur�le-Fortin;Parti lib�ral du Canada;Agurto Catal�n;Eduardo Gonzalo
+24040;Marc-Aur�le-Fortin;Bloc Qu�b�cois;Charbonneau;Marie-France
+24040;Marc-Aur�le-Fortin;Nouveau Parti d�mocratique;Gigu�re;Alain
+24040;Marc-Aur�le-Fortin;Le Parti Vert du Canada;Sicotte;Charles
+24040;Marc-Aur�le-Fortin;Parti conservateur du Canada;Th�or�t;Johanne
+24041;Haute-Gasp�sie--La Mitis--Matane--Matap�dia;Nouveau Parti d�mocratique;Boulet;Joanie
+24041;Haute-Gasp�sie--La Mitis--Matane--Matap�dia;Parti lib�ral du Canada;Charest;Nancy
+24041;Haute-Gasp�sie--La Mitis--Matane--Matap�dia;Parti conservateur du Canada;Cormier;Allen
+24041;Haute-Gasp�sie--La Mitis--Matane--Matap�dia;Le Parti Vert du Canada;Drainville;Louis
+24041;Haute-Gasp�sie--La Mitis--Matane--Matap�dia;Bloc Qu�b�cois;Fortin;Jean-Fran�ois
+24042;M�gantic--L'�rable;Parti action canadienne;Bergeron;Alain
+24042;M�gantic--L'�rable;Parti conservateur du Canada;Paradis;Christian
+24042;M�gantic--L'�rable;Parti lib�ral du Canada;Roy;Ren�
+24042;M�gantic--L'�rable;Le Parti Vert du Canada;Tessari;Wyatt
+24042;M�gantic--L'�rable;Bloc Qu�b�cois;Turcotte;Pierre
+24042;M�gantic--L'�rable;Nouveau Parti d�mocratique;Voisine;Cheryl
+24043;Montcalm;Parti lib�ral du Canada;Dufour;Yves
+24043;Montcalm;Parti conservateur du Canada;Fuoco;Jason
+24043;Montcalm;Bloc Qu�b�cois;Gaudet;Roger
+24043;Montcalm;Le Parti Vert du Canada;Girard;Marianne
+24043;Montcalm;Nouveau Parti d�mocratique;Perreault;Manon
+24044;Mont-Royal;Parti lib�ral du Canada;Cotler;Irwin
+24044;Mont-Royal;Bloc Qu�b�cois;Dumais;Gabriel
+24044;Mont-Royal;Nouveau Parti d�mocratique;Itcush;Jeff
+24044;Mont-Royal;Parti Marxiste-L�niniste du Canada;Johnston;Diane
+24044;Mont-Royal;Le Parti Vert du Canada;Sarwer-Foner;Brian
+24044;Mont-Royal;Aucune appartenance;Weizfeld;abraham
+24044;Mont-Royal;Parti conservateur du Canada;Zajdel;Saulie
+24045;Notre-Dame-de-Gr�ce--Lachine;Parti conservateur du Canada;Conway;Matthew
+24045;Notre-Dame-de-Gr�ce--Lachine;Le Parti Vert du Canada;Gal;Jessica
+24045;Notre-Dame-de-Gr�ce--Lachine;Parti Marxiste-L�niniste du Canada;Hoffman;Rachel
+24045;Notre-Dame-de-Gr�ce--Lachine;Parti lib�ral du Canada;Jennings;Marlene
+24045;Notre-Dame-de-Gr�ce--Lachine;Bloc Qu�b�cois;Ladouceur-Despins;Gabrielle
+24045;Notre-Dame-de-Gr�ce--Lachine;Ind�pendant;Lovett;David Andrew
+24045;Notre-Dame-de-Gr�ce--Lachine;Nouveau Parti d�mocratique;Morin;Isabelle
+24046;Abitibi--Baie-James--Nunavik--Eeyou;Parti lib�ral du Canada;Gervais;L�andre
+24046;Abitibi--Baie-James--Nunavik--Eeyou;Le Parti Vert du Canada;Kasudluak;Johnny
+24046;Abitibi--Baie-James--Nunavik--Eeyou;Bloc Qu�b�cois;L�vesque;Yvon
+24046;Abitibi--Baie-James--Nunavik--Eeyou;Parti conservateur du Canada;Matte;Jean-Maurice
+24046;Abitibi--Baie-James--Nunavik--Eeyou;Nouveau Parti d�mocratique;Saganash;Romeo
+24047;Outremont;Parti communiste du Canada;Boyden;Johan
+24047;Outremont;Parti lib�ral du Canada;Cauchon;Martin
+24047;Outremont;Bloc Qu�b�cois;Daoust;�lise
+24047;Outremont;Parti Rhinoc�ros;Gaudet;Tommy
+24047;Outremont;Parti conservateur du Canada;Husny;Rodolphe
+24047;Outremont;Nouveau Parti d�mocratique;Mulcair;Thomas
+24047;Outremont;Le Parti Vert du Canada;Pilon;Francois
+24048;Papineau;Bloc Qu�b�cois;Barbot;Vivian
+24048;Papineau;Parti conservateur du Canada;Chopra;Shama
+24048;Papineau;Parti Marxiste-L�niniste du Canada;Macrisopoulos;Peter
+24048;Papineau;Le Parti Vert du Canada;Polifroni;Danny
+24048;Papineau;Nouveau Parti d�mocratique;Tejada;Marcos Radhames
+24048;Papineau;Parti lib�ral du Canada;Trudeau;Justin
+24048;Papineau;Aucune appartenance;Young;Joseph
+24049;Pierrefonds--Dollard;Nouveau Parti d�mocratique;Blanchette-Lamothe;Lysane
+24049;Pierrefonds--Dollard;Parti conservateur du Canada;Evereklian;Agop
+24049;Pierrefonds--Dollard;Bloc Qu�b�cois;Jolicoeur;Nicolas
+24049;Pierrefonds--Dollard;Le Parti Vert du Canada;Lumer;Jonathan
+24049;Pierrefonds--Dollard;Parti lib�ral du Canada;Patry;Bernard
+24050;Pontiac;Parti conservateur du Canada;Cannon;Lawrence
+24050;Pontiac;Parti lib�ral du Canada;Duncan McMillan;Cindy
+24050;Pontiac;Parti Marxiste-L�niniste du Canada;Legros;Benoit
+24050;Pontiac;Le Parti Vert du Canada;Mayrand;Louis-Philippe
+24050;Pontiac;Nouveau Parti d�mocratique;Ravignat;Mathieu
+24050;Pontiac;Bloc Qu�b�cois;Tremblay;Maude
+24051;Portneuf--Jacques-Cartier;Ind�pendant;Arthur;Andr�
+24051;Portneuf--Jacques-Cartier;Bloc Qu�b�cois;C�t�;Richard
+24051;Portneuf--Jacques-Cartier;Le Parti Vert du Canada;Delorme;Claudine
+24051;Portneuf--Jacques-Cartier;Nouveau Parti d�mocratique;Michaud;�laine
+24051;Portneuf--Jacques-Cartier;Parti lib�ral du Canada;Th�riault;R�jean
+24052;Qu�bec;Le Parti Vert du Canada;Dutil;Yvan
+24052;Qu�bec;Bloc Qu�b�cois;Gagnon;Christiane
+24052;Qu�bec;Parti de l'H�ritage Chr�tien du Canada;Jetchick;Stefan
+24052;Qu�bec;Parti conservateur du Canada;Morasse;Pierre
+24052;Qu�bec;Nouveau Parti d�mocratique;Papillon;Annick
+24052;Qu�bec;Parti lib�ral du Canada;Payeur;Fran�ois
+24053;Repentigny;Le Parti Vert du Canada;Duchaine;Michel
+24053;Repentigny;Bloc Qu�b�cois;Dufour;Nicolas
+24053;Repentigny;Nouveau Parti d�mocratique;Larose;Jean-Fran�ois
+24053;Repentigny;Parti lib�ral du Canada;Perreault;Chantal
+24053;Repentigny;Parti conservateur du Canada;Royer;Christophe
+24054;Bas-Richelieu--Nicolet--B�cancour;Parti lib�ral du Canada;Blais;Rh�al
+24054;Bas-Richelieu--Nicolet--B�cancour;Parti conservateur du Canada;Cartier;Charles
+24054;Bas-Richelieu--Nicolet--B�cancour;Nouveau Parti d�mocratique;Lalonde;Krista
+24054;Bas-Richelieu--Nicolet--B�cancour;Bloc Qu�b�cois;Plamondon;Louis
+24054;Bas-Richelieu--Nicolet--B�cancour;Le Parti Vert du Canada;Tanguay;Anne-Marie
+24055;Richmond--Arthabaska;Parti conservateur du Canada;Bachand;Jean-Philippe
+24055;Richmond--Arthabaska;Bloc Qu�b�cois;Bellavance;Andr�
+24055;Richmond--Arthabaska;Le Parti Vert du Canada;Bombardier;Tomy
+24055;Richmond--Arthabaska;Nouveau Parti d�mocratique;Maguire;Isabelle
+24055;Richmond--Arthabaska;Parti lib�ral du Canada;Talbot;Marie-Jos�e
+24056;Rimouski-Neigette--T�miscouata--Les Basques;Parti lib�ral du Canada;Cadieux;Pierre
+24056;Rimouski-Neigette--T�miscouata--Les Basques;Nouveau Parti d�mocratique;Caron;Guy
+24056;Rimouski-Neigette--T�miscouata--Les Basques;Parti conservateur du Canada;Denis;Bertin
+24056;Rimouski-Neigette--T�miscouata--Les Basques;Bloc Qu�b�cois;Guimond;Claude
+24056;Rimouski-Neigette--T�miscouata--Les Basques;Le Parti Vert du Canada;Pelletier;Cl�ment
+24057;Rivi�re-des-Mille-�les;Le Parti Vert du Canada;Bisson;Gilles
+24057;Rivi�re-des-Mille-�les;Bloc Qu�b�cois;Desnoyers;Luc
+24057;Rivi�re-des-Mille-�les;Parti lib�ral du Canada;Joannette;Denis
+24057;Rivi�re-des-Mille-�les;Parti conservateur du Canada;Leblanc;Lucie
+24057;Rivi�re-des-Mille-�les;Nouveau Parti d�mocratique;Liu;Laurin
+24058;Montmagny--L'Islet--Kamouraska--Rivi�re-du-Loup;Bloc Qu�b�cois;Arsenault;Nathalie
+24058;Montmagny--L'Islet--Kamouraska--Rivi�re-du-Loup;Parti lib�ral du Canada;Caddell;Andrew
+24058;Montmagny--L'Islet--Kamouraska--Rivi�re-du-Loup;Parti conservateur du Canada;G�n�reux;Bernard
+24058;Montmagny--L'Islet--Kamouraska--Rivi�re-du-Loup;Nouveau Parti d�mocratique;Lapointe;Fran�ois
+24058;Montmagny--L'Islet--Kamouraska--Rivi�re-du-Loup;Le Parti Vert du Canada;Tremblay;Lynette
+24059;Rivi�re-du-Nord;Parti conservateur du Canada;Charron;Sylvain
+24059;Rivi�re-du-Nord;Nouveau Parti d�mocratique;Dionne Labelle;Pierre
+24059;Rivi�re-du-Nord;Bloc Qu�b�cois;Guay;Monique
+24059;Rivi�re-du-Nord;Parti lib�ral du Canada;Juteau;Jonathan
+24059;Rivi�re-du-Nord;Le Parti Vert du Canada;Pich�;Ren�
+24060;Roberval--Lac-Saint-Jean;Parti lib�ral du Canada;Garneau;Bernard
+24060;Roberval--Lac-Saint-Jean;Nouveau Parti d�mocratique;Guay;Yvon
+24060;Roberval--Lac-Saint-Jean;Parti conservateur du Canada;Lebel;Denis
+24060;Roberval--Lac-Saint-Jean;Bloc Qu�b�cois;Pilote;Claude
+24060;Roberval--Lac-Saint-Jean;Le Parti Vert du Canada;Simard;Steeve
+24061;Rosemont--La Petite-Patrie;Parti lib�ral du Canada;Beauregard;Kettly
+24061;Rosemont--La Petite-Patrie;Parti Rhinoc�ros;Berthiaume;Jean-Patrick
+24061;Rosemont--La Petite-Patrie;Bloc Qu�b�cois;Bigras;Bernard
+24061;Rosemont--La Petite-Patrie;Nouveau Parti d�mocratique;Boulerice;Alexandre
+24061;Rosemont--La Petite-Patrie;Parti Marxiste-L�niniste du Canada;Ch�nier;St�phane
+24061;Rosemont--La Petite-Patrie;Parti conservateur du Canada;Fort�;S�bastien
+24061;Rosemont--La Petite-Patrie;Le Parti Vert du Canada;Muldeen;Sameer
+24062;Saint-Bruno--Saint-Hubert;Parti conservateur du Canada;Charbonneau Barron;Nicole
+24062;Saint-Bruno--Saint-Hubert;Le Parti Vert du Canada;Denoncourt;Germain
+24062;Saint-Bruno--Saint-Hubert;Bloc Qu�b�cois;Lavall�e;Carole
+24062;Saint-Bruno--Saint-Hubert;Parti lib�ral du Canada;Picard;Michel
+24062;Saint-Bruno--Saint-Hubert;Nouveau Parti d�mocratique;Sellah;Djaouida
+24063;Saint-Hyacinthe--Bagot;Le Parti Vert du Canada;Beaudoin-Bussi�res;Johany
+24063;Saint-Hyacinthe--Bagot;Parti conservateur du Canada;Dagenais;Jean-Guy
+24063;Saint-Hyacinthe--Bagot;Nouveau Parti d�mocratique;Morin;Marie-Claude
+24063;Saint-Hyacinthe--Bagot;Bloc Qu�b�cois;Thi Lac;�ve-Mary Tha�
+24063;Saint-Hyacinthe--Bagot;Parti lib�ral du Canada;Vall�e;Denis
+24064;Saint-Jean;Bloc Qu�b�cois;Bachand;Claude
+24064;Saint-Jean;Nouveau Parti d�mocratique;Brahmi;Tarik
+24064;Saint-Jean;Parti lib�ral du Canada;David;Robert
+24064;Saint-Jean;Parti conservateur du Canada;Thouin;Jean
+24064;Saint-Jean;Le Parti Vert du Canada;Tremblay;Pierre
+24065;Saint-Lambert;Bloc Qu�b�cois;Beaudin;Jos�e
+24065;Saint-Lambert;Le Parti Vert du Canada;Budilean;Carmen
+24065;Saint-Lambert;Nouveau Parti d�mocratique;Groguh�;Sadia
+24065;Saint-Lambert;Parti conservateur du Canada;Hamidi;Qais
+24065;Saint-Lambert;Parti lib�ral du Canada;Stanners;Roxane
+24066;Saint-Laurent--Cartierville;Parti Marxiste-L�niniste du Canada;Deschamps;Fernand
+24066;Saint-Laurent--Cartierville;Parti lib�ral du Canada;Dion;St�phane
+24066;Saint-Laurent--Cartierville;Bloc Qu�b�cois;Fayad;William
+24066;Saint-Laurent--Cartierville;Nouveau Parti d�mocratique;Florez;Maria Ximena
+24066;Saint-Laurent--Cartierville;Le Parti Vert du Canada;Landry;Tim
+24066;Saint-Laurent--Cartierville;Parti conservateur du Canada;Litvin;Svetlana
+24067;Saint-L�onard--Saint-Michel;Bloc Qu�b�cois;Bernier;Alain
+24067;Saint-L�onard--Saint-Michel;Parti Marxiste-L�niniste du Canada;Colly;Garnet
+24067;Saint-L�onard--Saint-Michel;Parti conservateur du Canada;De Ioris;Riccardo
+24067;Saint-L�onard--Saint-Michel;Le Parti Vert du Canada;Di Pardo;Michael
+24067;Saint-L�onard--Saint-Michel;Parti lib�ral du Canada;Pacetti;Massimo
+24067;Saint-L�onard--Saint-Michel;Nouveau Parti d�mocratique;Peressini;Roberta
+24068;Saint-Maurice--Champlain;Le Parti Vert du Canada;Audette;Pierre
+24068;Saint-Maurice--Champlain;Parti conservateur du Canada;Grenier;Jacques
+24068;Saint-Maurice--Champlain;Bloc Qu�b�cois;Laforest;Jean-Yves
+24068;Saint-Maurice--Champlain;Nouveau Parti d�mocratique;St-Denis;Lise
+24068;Saint-Maurice--Champlain;Parti lib�ral du Canada;Tousignant;Yves
+24069;Shefford;Le Parti Vert du Canada;Daoust;Patrick
+24069;Shefford;Parti lib�ral du Canada;Demers;Bernard
+24069;Shefford;Nouveau Parti d�mocratique;Genest;R�jean
+24069;Shefford;Parti conservateur du Canada;Leclerc;M�lisa
+24069;Shefford;Bloc Qu�b�cois;Vincent;Robert
+24070;Sherbrooke;Bloc Qu�b�cois;Cardin;Serge
+24070;Sherbrooke;Parti lib�ral du Canada;Deslauriers;�ric
+24070;Sherbrooke;Nouveau Parti d�mocratique;Dusseault;Pierre-Luc
+24070;Sherbrooke;Parti conservateur du Canada;Harvey;Pierre
+24070;Sherbrooke;Le Parti Vert du Canada;Laberge;Jacques
+24070;Sherbrooke;Parti Rhinoc�ros;Landry;Cr�dible Berlingot
+24071;Terrebonne--Blainville;Nouveau Parti d�mocratique;Borg;Charmaine
+24071;Terrebonne--Blainville;Bloc Qu�b�cois;Bourgeois;Diane
+24071;Terrebonne--Blainville;Parti lib�ral du Canada;Fr�geau;Robert
+24071;Terrebonne--Blainville;Le Parti Vert du Canada;Paulette;Michel
+24071;Terrebonne--Blainville;Parti conservateur du Canada;Payment;Jean-Philippe
+24072;Trois-Rivi�res;Parti Rhinoc�ros;Arsenault;Francis
+24072;Trois-Rivi�res;Nouveau Parti d�mocratique;Aubin;Robert
+24072;Trois-Rivi�res;Bloc Qu�b�cois;Brunelle;Paule
+24072;Trois-Rivi�res;Ind�pendant;Fortin;Marc-Andr�
+24072;Trois-Rivi�res;Le Parti Vert du Canada;Lacroix;Louis
+24072;Trois-Rivi�res;Parti conservateur du Canada;Lacroix;Pierre
+24072;Trois-Rivi�res;Parti lib�ral du Canada;Mangin;Patrice
+24073;Vaudreuil-Soulanges;Parti conservateur du Canada;Boudreau;Marc
+24073;Vaudreuil-Soulanges;Bloc Qu�b�cois;Faille;Meili
+24073;Vaudreuil-Soulanges;Le Parti Vert du Canada;Massenet;Jean-Yves
+24073;Vaudreuil-Soulanges;Nouveau Parti d�mocratique;Nicholls;Jamie
+24073;Vaudreuil-Soulanges;Parti lib�ral du Canada;Pelchat;Lyne
+24074;Verch�res--Les Patriotes;Parti conservateur du Canada;Alfaro;Rodrigo
+24074;Verch�res--Les Patriotes;Nouveau Parti d�mocratique;Hassainia;Sana
+24074;Verch�res--Les Patriotes;Le Parti Vert du Canada;Lapierre;Thomas
+24074;Verch�res--Les Patriotes;Bloc Qu�b�cois;Malo;Luc
+24074;Verch�res--Les Patriotes;Parti lib�ral du Canada;Therrien-P�loquin;Pier-Luc
+24075;Westmount--Ville-Marie;Le Parti Vert du Canada;Carkner;Andrew
+24075;Westmount--Ville-Marie;Nouveau Parti d�mocratique;Corbeil;Joanne
+24075;Westmount--Ville-Marie;Parti conservateur du Canada;Drabkin;Neil
+24075;Westmount--Ville-Marie;Parti lib�ral du Canada;Garneau;Marc
+24075;Westmount--Ville-Marie;Parti Rhinoc�ros;Haliburton;Victoria
+24075;Westmount--Ville-Marie;Bloc Qu�b�cois;Roy;V�ronique
+24075;Westmount--Ville-Marie;Parti communiste du Canada;Sloan;Bill
+35001;Ajax--Pickering;Parti conservateur du Canada;Alexander;Chris
+35001;Ajax--Pickering;Le Parti Vert du Canada;Harilaid;Mike
+35001;Ajax--Pickering;Parti lib�ral du Canada;Holland;Mark
+35001;Ajax--Pickering;Parti Uni du Canada;Kesic;Bob
+35001;Ajax--Pickering;Nouveau Parti d�mocratique;Koppens;Jim
+35002;Algoma--Manitoulin--Kapuskasing;Parti lib�ral du Canada;Cloutier;Fran�ois
+35002;Algoma--Manitoulin--Kapuskasing;Nouveau Parti d�mocratique;Hughes;Carol
+35002;Algoma--Manitoulin--Kapuskasing;Le Parti Vert du Canada;Rekmans;Lorraine A.
+35002;Algoma--Manitoulin--Kapuskasing;Parti conservateur du Canada;Sturgeon;Ray
+35003;Ancaster--Dundas--Flamborough--Westdale;Parti lib�ral du Canada;Braden;Dave
+35003;Ancaster--Dundas--Flamborough--Westdale;Parti Marxiste-L�niniste du Canada;Ghaddar;Jamil�
+35003;Ancaster--Dundas--Flamborough--Westdale;Parti Libertarien du Canada;Giles;Anthony
+35003;Ancaster--Dundas--Flamborough--Westdale;Nouveau Parti d�mocratique;MacBain;Nancy
+35003;Ancaster--Dundas--Flamborough--Westdale;Le Parti Vert du Canada;Ormond;Peter Michael
+35003;Ancaster--Dundas--Flamborough--Westdale;Parti conservateur du Canada;Sweet;David
+35004;Barrie;Parti conservateur du Canada;Brown;Patrick
+35004;Barrie;Nouveau Parti d�mocratique;Clark;Myrna
+35004;Barrie;Le Parti Vert du Canada;Jacoby-Hawkins;Erich
+35004;Barrie;Parti Marxiste-L�niniste du Canada;Nugent;Christine
+35004;Barrie;Parti Libertarien du Canada;Roskam;Darren
+35004;Barrie;Parti action canadienne;Sakula;Jeff
+35004;Barrie;Parti lib�ral du Canada;Wilson;Colin
+35005;Beaches--East York;Parti conservateur du Canada;Burrows;Bill
+35005;Beaches--East York;Le Parti Vert du Canada;Cameron;Aaron
+35005;Beaches--East York;Parti Marxiste-L�niniste du Canada;Carter;Roger
+35005;Beaches--East York;Nouveau Parti d�mocratique;Kellway;Matthew
+35005;Beaches--East York;Parti lib�ral du Canada;Minna;Maria
+35006;Bramalea--Gore--Malton;Parti Marxiste-L�niniste du Canada;Chilelli;Frank
+35006;Bramalea--Gore--Malton;Parti conservateur du Canada;Gosal;Bal
+35006;Bramalea--Gore--Malton;Parti lib�ral du Canada;Malhi;Gurbax S.
+35006;Bramalea--Gore--Malton;Le Parti Vert du Canada;Moulton;John R.A.
+35006;Bramalea--Gore--Malton;Nouveau Parti d�mocratique;Singh;Jagmeet
+35007;Brampton--Springdale;Parti lib�ral du Canada;Dhalla;Ruby
+35007;Brampton--Springdale;Parti conservateur du Canada;Gill;Parm
+35007;Brampton--Springdale;Nouveau Parti d�mocratique;Grewal;Manjit
+35007;Brampton--Springdale;Le Parti Vert du Canada;Hoffberg;Mark
+35007;Brampton--Springdale;Parti communiste du Canada;Rowley;Elizabeth
+35008;Brampton-Ouest;Parti lib�ral du Canada;Kania;Andrew
+35008;Brampton-Ouest;Ind�pendant;Koum Njoh;Theodore
+35008;Brampton-Ouest;Parti conservateur du Canada;Seeback;Kyle
+35008;Brampton-Ouest;Nouveau Parti d�mocratique;Shergill;Jagtar
+35008;Brampton-Ouest;Le Parti Vert du Canada;Soor;Avtaar
+35009;Brant;Ind�pendant;Bory;Leslie
+35009;Brant;Le Parti Vert du Canada;Fueten;Nora
+35009;Brant;Nouveau Parti d�mocratique;Laferriere;Marc
+35009;Brant;Parti conservateur du Canada;McColeman;Phil
+35009;Brant;Ind�pendant;Sitko;Martin
+35009;Brant;Parti lib�ral du Canada;St. Amand;Lloyd
+35010;Burlington;Parti Marxiste-L�niniste du Canada;Baetz;Elaine
+35010;Burlington;Parti lib�ral du Canada;Brierley;Alyssa
+35010;Burlington;Nouveau Parti d�mocratique;Laird;David
+35010;Burlington;Le Parti Vert du Canada;Mayberry;Graham Reid
+35010;Burlington;Parti conservateur du Canada;Wallace;Mike
+35011;Cambridge;Parti Marxiste-L�niniste du Canada;Couto;Manuel
+35011;Cambridge;Nouveau Parti d�mocratique;Galvao;Susan
+35011;Cambridge;Parti conservateur du Canada;Goodyear;Gary
+35011;Cambridge;Le Parti Vert du Canada;Malette;Jacques
+35011;Cambridge;Parti lib�ral du Canada;May;Bryan
+35012;Carleton--Mississippi Mills;Le Parti Vert du Canada;Hogg;John
+35012;Carleton--Mississippi Mills;Parti lib�ral du Canada;McCrimmon;Karen
+35012;Carleton--Mississippi Mills;Parti conservateur du Canada;O'Connor;Gordon
+35012;Carleton--Mississippi Mills;Nouveau Parti d�mocratique;Peters;Erin
+35013;Chatham-Kent--Essex;Parti lib�ral du Canada;Daudlin;Matt
+35013;Chatham-Kent--Essex;Nouveau Parti d�mocratique;Franko;Ron
+35013;Chatham-Kent--Essex;Le Parti Vert du Canada;Hodgson;Robert
+35013;Chatham-Kent--Essex;Parti conservateur du Canada;Van Kesteren;Dave
+35014;Durham;Parti Libertarien du Canada;Barnicoat;Blaize
+35014;Durham;Parti lib�ral du Canada;Humes;Grant
+35014;Durham;Le Parti Vert du Canada;Leahy;Stephen
+35014;Durham;Parti de l'H�ritage Chr�tien du Canada;Moriarity;Andrew
+35014;Durham;Parti conservateur du Canada;Oda;Bev
+35014;Durham;Nouveau Parti d�mocratique;Schoep;Tammy
+35015;Davenport;Nouveau Parti d�mocratique;Cash;Andrew
+35015;Davenport;Parti communiste du Canada;Figueroa;Miguel
+35015;Davenport;Animal Alliance Environment Voters Party of Canada;Luisi;Simon
+35015;Davenport;Parti conservateur du Canada;Rodrigues;Theresa
+35015;Davenport;Le Parti Vert du Canada;Scott;Wayne
+35015;Davenport;Parti lib�ral du Canada;Silva;Mario
+35016;Don Valley-Est;Parti conservateur du Canada;Daniel;Joe
+35016;Don Valley-Est;Nouveau Parti d�mocratique;Hynes;Mary Trapani
+35016;Don Valley-Est;Parti de l'H�ritage Chr�tien du Canada;Kidd;Ryan
+35016;Don Valley-Est;Parti lib�ral du Canada;Ratansi;Yasmin
+35016;Don Valley-Est;Le Parti Vert du Canada;Sadikali;Akil
+35017;Don Valley-Ouest;Parti conservateur du Canada;Carmichael;John
+35017;Don Valley-Ouest;Parti communiste du Canada;Kabitsis;Dimitris
+35017;Don Valley-Ouest;Parti lib�ral du Canada;Oliphant;Rob
+35017;Don Valley-Ouest;Le Parti Vert du Canada;Wilcock;Georgina
+35017;Don Valley-Ouest;Nouveau Parti d�mocratique;Yovanoff;Nicole
+35018;Dufferin--Caledon;Nouveau Parti d�mocratique;Parsons;Leslie
+35018;Dufferin--Caledon;Parti lib�ral du Canada;Prout;Bill
+35018;Dufferin--Caledon;Parti conservateur du Canada;Tilson;David
+35018;Dufferin--Caledon;Le Parti Vert du Canada;Van Leeuwen;Ard
+35019;Eglinton--Lawrence;Le Parti Vert du Canada;Baker;Paul William
+35019;Eglinton--Lawrence;Nouveau Parti d�mocratique;Chatwin;Justin
+35019;Eglinton--Lawrence;Parti conservateur du Canada;Oliver;Joe
+35019;Eglinton--Lawrence;Parti lib�ral du Canada;Volpe;Joe
+35020;Elgin--Middlesex--London;Parti action canadienne;Arlow;Will
+35020;Elgin--Middlesex--London;Le Parti Vert du Canada;Fisher;John
+35020;Elgin--Middlesex--London;Parti de l'H�ritage Chr�tien du Canada;Hiemstra;Carl
+35020;Elgin--Middlesex--London;Parti conservateur du Canada;Preston;Joe
+35020;Elgin--Middlesex--London;Nouveau Parti d�mocratique;Sinclair;Fred
+35020;Elgin--Middlesex--London;Parti lib�ral du Canada;Warwick;Graham
+35021;Essex;Le Parti Vert du Canada;Carriveau;Cora
+35021;Essex;Nouveau Parti d�mocratique;Natyshak;Taras
+35021;Essex;Parti lib�ral du Canada;Santos;Nelson
+35021;Essex;Parti Marxiste-L�niniste du Canada;Villamizar;Enver
+35021;Essex;Parti conservateur du Canada;Watson;Jeff
+35022;Etobicoke-Centre;Parti conservateur du Canada;Opitz;Ted
+35022;Etobicoke-Centre;Nouveau Parti d�mocratique;Rivero;Ana Maria
+35022;Etobicoke-Centre;Parti Marxiste-L�niniste du Canada;Thompson;Sarah
+35022;Etobicoke-Centre;Parti lib�ral du Canada;Wrzesnewskyj;Borys
+35022;Etobicoke-Centre;Le Parti Vert du Canada;Zoricic;Katarina
+35023;Etobicoke--Lakeshore;Le Parti Vert du Canada;Corail;Dave
+35023;Etobicoke--Lakeshore;Nouveau Parti d�mocratique;Erickson;Michael
+35023;Etobicoke--Lakeshore;Parti lib�ral du Canada;Ignatieff;Michael
+35023;Etobicoke--Lakeshore;Parti Marxiste-L�niniste du Canada;Murray;Janice
+35023;Etobicoke--Lakeshore;Parti conservateur du Canada;Trottier;Bernard
+35024;Etobicoke-Nord;Nouveau Parti d�mocratique;Andrews;Diana
+35024;Etobicoke-Nord;Parti Marxiste-L�niniste du Canada;Di Carlo;Anna
+35024;Etobicoke-Nord;Parti lib�ral du Canada;Duncan;Kirsty
+35024;Etobicoke-Nord;Parti Libertarien du Canada;Dvornyak;Alex
+35024;Etobicoke-Nord;Parti de l'H�ritage Chr�tien du Canada;Gardner;John C.
+35024;Etobicoke-Nord;Parti conservateur du Canada;Lamba;Priti
+35025;Glengarry--Prescott--Russell;Parti lib�ral du Canada;Bourgeois;Julie
+35025;Glengarry--Prescott--Russell;Parti Libertarien du Canada;Brisson;Jean-Serge
+35025;Glengarry--Prescott--Russell;Parti conservateur du Canada;Lemieux;Pierre
+35025;Glengarry--Prescott--Russell;Le Parti Vert du Canada;Lemieux;Sylvie
+35025;Glengarry--Prescott--Russell;Nouveau Parti d�mocratique;S�guin;Denis A.
+35026;Bruce--Grey--Owen Sound;Nouveau Parti d�mocratique;Gventer;Karen
+35026;Bruce--Grey--Owen Sound;Le Parti Vert du Canada;Hogbin;Emma
+35026;Bruce--Grey--Owen Sound;Parti lib�ral du Canada;Love;Kimberley
+35026;Bruce--Grey--Owen Sound;Parti conservateur du Canada;Miller;Larry
+35027;Guelph;Parti Libertarien du Canada;Bender;Philip
+35027;Guelph;Parti conservateur du Canada;Burke;Marty
+35027;Guelph;Parti communiste du Canada;Garvie;Drew
+35027;Guelph;Parti Marijuana;Klevering;Kornelis
+35027;Guelph;Le Parti Vert du Canada;Lawson;John
+35027;Guelph;Animal Alliance Environment Voters Party of Canada;Levenson;Karen
+35027;Guelph;Nouveau Parti d�mocratique;Stewart;Bobbi
+35027;Guelph;Parti lib�ral du Canada;Valeriote;Frank
+35028;Haldimand--Norfolk;Parti de l'H�ritage Chr�tien du Canada;Elgersma;Steven
+35028;Haldimand--Norfolk;Le Parti Vert du Canada;Faulkner;Anne
+35028;Haldimand--Norfolk;Parti conservateur du Canada;Finley;Diane
+35028;Haldimand--Norfolk;Nouveau Parti d�mocratique;Nichols;Ian
+35028;Haldimand--Norfolk;Parti lib�ral du Canada;Speller;Bob
+35029;Haliburton--Kawartha Lakes--Brock;Parti conservateur du Canada;Devolin;Barry
+35029;Haliburton--Kawartha Lakes--Brock;Nouveau Parti d�mocratique;Edwards;Lyn
+35029;Haliburton--Kawartha Lakes--Brock;Le Parti Vert du Canada;Lauten;Susanne
+35029;Haliburton--Kawartha Lakes--Brock;Parti lib�ral du Canada;Redman;Laura
+35030;Halton;Nouveau Parti d�mocratique;Heroux;Pat
+35030;Halton;Parti lib�ral du Canada;Laurin-Bowie;Connie
+35030;Halton;Parti conservateur du Canada;Raitt;Lisa
+35030;Halton;Le Parti Vert du Canada;Remigio;Judi
+35030;Halton;Parti de l'H�ritage Chr�tien du Canada;Rodrigues;Tony
+35031;Hamilton-Centre;Parti Marijuana;Baldasaro;Michael
+35031;Hamilton-Centre;Parti conservateur du Canada;Byron;Jim
+35031;Hamilton-Centre;Nouveau Parti d�mocratique;Christopherson;David
+35031;Hamilton-Centre;Parti Marxiste-L�niniste du Canada;Nussey;Lisa
+35031;Hamilton-Centre;Parti lib�ral du Canada;Tennier;Anne
+35032;Hamilton-Est--Stoney Creek;Parti conservateur du Canada;Clark;Brad
+35032;Hamilton-Est--Stoney Creek;Parti Marxiste-L�niniste du Canada;Fields;Wendell
+35032;Hamilton-Est--Stoney Creek;Le Parti Vert du Canada;Hart Dyke;David
+35032;Hamilton-Est--Stoney Creek;Parti Progressiste Canadien;Hill;Gord
+35032;Hamilton-Est--Stoney Creek;Parti action canadienne;Innes;Bob Green
+35032;Hamilton-Est--Stoney Creek;Parti communiste du Canada;Mann;Bob
+35032;Hamilton-Est--Stoney Creek;Nouveau Parti d�mocratique;Marston;Wayne
+35032;Hamilton-Est--Stoney Creek;Parti Libertarien du Canada;Pattinson;Greg
+35032;Hamilton-Est--Stoney Creek;Parti lib�ral du Canada;Stockwell;Michelle
+35033;Hamilton Mountain;Ind�pendant;Adamiec;Henryk
+35033;Hamilton Mountain;Parti conservateur du Canada;Anderson;Terry
+35033;Hamilton Mountain;Parti lib�ral du Canada;Bountrogianni;Marie
+35033;Hamilton Mountain;Le Parti Vert du Canada;Brotherston;Stephen
+35033;Hamilton Mountain;Nouveau Parti d�mocratique;Charlton;Chris
+35033;Hamilton Mountain;Parti de l'H�ritage Chr�tien du Canada;Enos;Jim
+35034;Huron--Bruce;Parti lib�ral du Canada;Bagnato;Charlie
+35034;Huron--Bruce;Parti conservateur du Canada;Lobb;Ben
+35034;Huron--Bruce;Nouveau Parti d�mocratique;Robertson;Grant
+35034;Huron--Bruce;Le Parti Vert du Canada;Shelley;Eric
+35034;Huron--Bruce;Ind�pendant;Valenta;Dennis
+35035;Kenora;Nouveau Parti d�mocratique;Cameron;Tania
+35035;Kenora;Ind�pendant;Chicago-Boucher;Kelvin
+35035;Kenora;Parti conservateur du Canada;Rickford;Greg
+35035;Kenora;Le Parti Vert du Canada;Schwindt;Mike
+35035;Kenora;Parti lib�ral du Canada;Valley;Roger
+35036;Kingston et les �les;Nouveau Parti d�mocratique;Beals;Daniel
+35036;Kingston et les �les;Parti conservateur du Canada;Gordon;Alicia
+35036;Kingston et les �les;Parti lib�ral du Canada;Hsu;Ted
+35036;Kingston et les �les;Le Parti Vert du Canada;Walton;Eric
+35037;Kitchener-Centre;Parti Marxiste-L�niniste du Canada;Corbiere;Mark
+35037;Kitchener-Centre;Parti lib�ral du Canada;Redman;Karen
+35037;Kitchener-Centre;Ind�pendant;Rimmer;Alan
+35037;Kitchener-Centre;Parti communiste du Canada;Suter;Martin
+35037;Kitchener-Centre;Nouveau Parti d�mocratique;Thurley;Peter
+35037;Kitchener-Centre;Le Parti Vert du Canada;Williston;Byron
+35037;Kitchener-Centre;Parti conservateur du Canada;Woodworth;Stephen
+35038;Kitchener--Conestoga;Parti conservateur du Canada;Albrecht;Harold
+35038;Kitchener--Conestoga;Le Parti Vert du Canada;Ashley;Albert
+35038;Kitchener--Conestoga;Nouveau Parti d�mocratique;Bruce;Lorne
+35038;Kitchener--Conestoga;Parti lib�ral du Canada;Rosehart;Bob
+35039;Kitchener--Waterloo;Parti conservateur du Canada;Braid;Peter
+35039;Kitchener--Waterloo;Nouveau Parti d�mocratique;Brown;Bill
+35039;Kitchener--Waterloo;Parti Marxiste-L�niniste du Canada;Ichim;Julian
+35039;Kitchener--Waterloo;Le Parti Vert du Canada;MacLellan;Cathy
+35039;Kitchener--Waterloo;Parti Pirate du Canada;Scott;Steven Bradley
+35039;Kitchener--Waterloo;Parti lib�ral du Canada;Telegdi;Andrew
+35039;Kitchener--Waterloo;Ind�pendant;Walsh-Bowers;Richard
+35040;Lanark--Frontenac--Lennox and Addington;Le Parti Vert du Canada;Baranyi;John
+35040;Lanark--Frontenac--Lennox and Addington;Ind�pendant;Lee;Ralph
+35040;Lanark--Frontenac--Lennox and Addington;Parti conservateur du Canada;Reid;Scott
+35040;Lanark--Frontenac--Lennox and Addington;Parti lib�ral du Canada;Remington;David
+35040;Lanark--Frontenac--Lennox and Addington;Nouveau Parti d�mocratique;Smyth;Doug
+35041;Leeds--Grenville;Parti conservateur du Canada;Brown;Gord
+35041;Leeds--Grenville;Nouveau Parti d�mocratique;Gabriel;Matthew
+35041;Leeds--Grenville;Parti lib�ral du Canada;Loveys;Marjory
+35041;Leeds--Grenville;Le Parti Vert du Canada;Slade;Mary
+35042;London--Fanshawe;Parti lib�ral du Canada;Caranci;Roger
+35042;London--Fanshawe;Parti conservateur du Canada;Chahbar;Jim
+35042;London--Fanshawe;Nouveau Parti d�mocratique;Mathyssen;Irene
+35042;London--Fanshawe;Le Parti Vert du Canada;Peloza;Matthew
+35042;London--Fanshawe;Parti de l'H�ritage Chr�tien du Canada;Rancourt;G.J.
+35043;London-Centre-Nord;Nouveau Parti d�mocratique;Gutierrez;German
+35043;London-Centre-Nord;Le Parti Vert du Canada;Hodge;Mary Ann
+35043;London-Centre-Nord;Parti lib�ral du Canada;Pearson;Glen
+35043;London-Centre-Nord;Parti conservateur du Canada;Truppe;Susan
+35043;London-Centre-Nord;Animal Alliance Environment Voters Party of Canada;Valastro;AnnaMaria
+35044;London-Ouest;Le Parti Vert du Canada;Corbett;Brad Arthur
+35044;London-Ouest;Parti lib�ral du Canada;Ferguson;Doug
+35044;London-Ouest;Nouveau Parti d�mocratique;Ferguson;Peter
+35044;London-Ouest;Parti conservateur du Canada;Holder;Ed
+35044;London-Ouest;Parti Uni du Canada;Morley;Rod
+35045;Markham--Unionville;Nouveau Parti d�mocratique;Hawkins;Nadine Marie
+35045;Markham--Unionville;Parti lib�ral du Canada;McCallum;John
+35045;Markham--Unionville;Le Parti Vert du Canada;Poon;Adam
+35045;Markham--Unionville;Parti conservateur du Canada;Saroya;Bob
+35045;Markham--Unionville;Parti Libertarien du Canada;Small;Allen
+35046;Lambton--Kent--Middlesex;Nouveau Parti d�mocratique;Hill;Joe
+35046;Lambton--Kent--Middlesex;Parti de l'H�ritage Chr�tien du Canada;Janssens;Mike
+35046;Lambton--Kent--Middlesex;Le Parti Vert du Canada;Johnston;Jim
+35046;Lambton--Kent--Middlesex;Parti conservateur du Canada;Shipley;Bev
+35046;Lambton--Kent--Middlesex;Parti lib�ral du Canada;Stucke;Gayle
+35047;Mississauga--Brampton-Sud;Parti conservateur du Canada;Adams;Eve
+35047;Mississauga--Brampton-Sud;Parti lib�ral du Canada;Bains;Navdeep
+35047;Mississauga--Brampton-Sud;Nouveau Parti d�mocratique;Glavan;Jim
+35047;Mississauga--Brampton-Sud;Le Parti Vert du Canada;Stone;Benjamin Jonathon
+35047;Mississauga--Brampton-Sud;Parti Marxiste-L�niniste du Canada;Sullivan;Tim
+35048;Mississauga-Est--Cooksville;Nouveau Parti d�mocratique;Ahmed;Waseem
+35048;Mississauga-Est--Cooksville;Le Parti Vert du Canada;Bhikha;Jaymini
+35048;Mississauga-Est--Cooksville;Parti Marxiste-L�niniste du Canada;Ch�nier;Pierre
+35048;Mississauga-Est--Cooksville;Parti lib�ral du Canada;Fonseca;Peter
+35048;Mississauga-Est--Cooksville;Parti conservateur du Canada;Lizon;Wladyslaw
+35049;Mississauga--Erindale;Parti lib�ral du Canada;Alghabra;Omar
+35049;Mississauga--Erindale;Nouveau Parti d�mocratique;Bilek;Michelle
+35049;Mississauga--Erindale;Parti conservateur du Canada;Dechert;Robert
+35049;Mississauga--Erindale;Le Parti Vert du Canada;Fraser;John
+35049;Mississauga--Erindale;Parti Marxiste-L�niniste du Canada;Sullivan;Dagmar
+35050;Mississauga-Sud;Parti conservateur du Canada;Ambler;Stella
+35050;Mississauga-Sud;Aucune appartenance;Barrett;Richard
+35050;Mississauga-Sud;Nouveau Parti d�mocratique;Kalbouneh;Farah
+35050;Mississauga-Sud;Le Parti Vert du Canada;Simas;Paul
+35050;Mississauga-Sud;Parti lib�ral du Canada;Szabo;Paul
+35051;Mississauga--Streetsville;Parti conservateur du Canada;Butt;Brad
+35051;Mississauga--Streetsville;Parti lib�ral du Canada;Crombie;Bonnie
+35051;Mississauga--Streetsville;Le Parti Vert du Canada;Hill;Chris
+35051;Mississauga--Streetsville;Nouveau Parti d�mocratique;Naqvi;Aijaz
+35052;Nepean--Carleton;Le Parti Vert du Canada;Cooke;Jean-Luc
+35052;Nepean--Carleton;Nouveau Parti d�mocratique;Dagenais;Ric
+35052;Nepean--Carleton;Parti lib�ral du Canada;Keon;Ryan
+35052;Nepean--Carleton;Parti conservateur du Canada;Poilievre;Pierre
+35053;Newmarket--Aurora;Parti Progressiste Canadien;Baxter;Dorian
+35053;Newmarket--Aurora;Nouveau Parti d�mocratique;Bidarian;Kassandra
+35053;Newmarket--Aurora;Parti conservateur du Canada;Brown;Lois
+35053;Newmarket--Aurora;Le Parti Vert du Canada;Long;Vanessa
+35053;Newmarket--Aurora;Animal Alliance Environment Voters Party of Canada;Mackie;Yvonne
+35053;Newmarket--Aurora;Parti lib�ral du Canada;Peterson;Kyle
+35054;Niagara Falls;Parti lib�ral du Canada;Hodgson;Bev
+35054;Niagara Falls;Parti de l'H�ritage Chr�tien du Canada;Jonker;Harold
+35054;Niagara Falls;Nouveau Parti d�mocratique;Kelley;Heather
+35054;Niagara Falls;Parti conservateur du Canada;Nicholson;Rob
+35054;Niagara Falls;Le Parti Vert du Canada;Willick;Shawn
+35055;Niagara-Ouest--Glanbrook;Parti conservateur du Canada;Allison;Dean
+35055;Niagara-Ouest--Glanbrook;Parti lib�ral du Canada;Bieda;Stephen
+35055;Niagara-Ouest--Glanbrook;Le Parti Vert du Canada;Frere;Sid
+35055;Niagara-Ouest--Glanbrook;Nouveau Parti d�mocratique;Heatley;David
+35055;Niagara-Ouest--Glanbrook;Parti de l'H�ritage Chr�tien du Canada;Jongbloed;Bryan
+35056;Nickel Belt;Parti lib�ral du Canada;Cormier;Joe
+35056;Nickel Belt;Nouveau Parti d�mocratique;Gravelle;Claude
+35056;Nickel Belt;Le Parti Vert du Canada;Guillot-Proulx;Christine
+35056;Nickel Belt;Parti conservateur du Canada;Reynolds;Lynne
+35056;Nickel Belt;Parti Marxiste-L�niniste du Canada;Rutchinski;Steve
+35057;Nipissing--Timiskaming;Parti conservateur du Canada;Aspin;Jay
+35057;Nipissing--Timiskaming;Le Parti Vert du Canada;Daley;Scott Edward
+35057;Nipissing--Timiskaming;Nouveau Parti d�mocratique;Eckert;Rona
+35057;Nipissing--Timiskaming;Parti lib�ral du Canada;Rota;Anthony
+35058;Northumberland--Quinte West;Nouveau Parti d�mocratique;Christianson;Russ
+35058;Northumberland--Quinte West;Parti conservateur du Canada;Norlock;Rick
+35058;Northumberland--Quinte West;Parti lib�ral du Canada;Rudd;Kim
+35058;Northumberland--Quinte West;Le Parti Vert du Canada;Torrie;Ralph
+35059;Oak Ridges--Markham;Parti conservateur du Canada;Calandra;Paul
+35059;Oak Ridges--Markham;Nouveau Parti d�mocratique;Hagan;Janice
+35059;Oak Ridges--Markham;Le Parti Vert du Canada;Haitas;Trifon
+35059;Oak Ridges--Markham;Parti Progressiste Canadien;Siciliano;John
+35059;Oak Ridges--Markham;Parti lib�ral du Canada;Temelkovski;Lui
+35060;Oakville;Le Parti Vert du Canada;Chlobowski;Andrew
+35060;Oakville;Nouveau Parti d�mocratique;Ede;James
+35060;Oakville;Parti lib�ral du Canada;Khan;Max
+35060;Oakville;Parti conservateur du Canada;Young;Terence
+35061;Oshawa;Le Parti Vert du Canada;Bates;Gail
+35061;Oshawa;Parti Libertarien du Canada;Belanger;Matthew
+35061;Oshawa;Nouveau Parti d�mocratique;Buckley;Chris
+35061;Oshawa;Parti conservateur du Canada;Carrie;Colin
+35061;Oshawa;Parti Marxiste-L�niniste du Canada;Gershuny;David
+35061;Oshawa;Parti lib�ral du Canada;Morton;James Cooper
+35062;Ottawa-Centre;Parti Marijuana;Akpata;John Andrew
+35062;Ottawa-Centre;Ind�pendant;Bellai;Romeo
+35062;Ottawa-Centre;Parti lib�ral du Canada;Bradley;Scott
+35062;Ottawa-Centre;Nouveau Parti d�mocratique;Dewar;Paul
+35062;Ottawa-Centre;Le Parti Vert du Canada;Hunter;Jen
+35062;Ottawa-Centre;Parti conservateur du Canada;Konstantinakos;Damian
+35062;Ottawa-Centre;Parti communiste du Canada;Ryan;Stuart
+35062;Ottawa-Centre;Parti Marxiste-L�niniste du Canada;Soubli�re;Pierre
+35063;Ottawa--Orl�ans;Parti lib�ral du Canada;Bertschi;David
+35063;Ottawa--Orl�ans;Nouveau Parti d�mocratique;C�natus;Martine
+35063;Ottawa--Orl�ans;Parti conservateur du Canada;Galipeau;Royal
+35063;Ottawa--Orl�ans;Le Parti Vert du Canada;Maillet;Paul
+35064;Ottawa-Sud;Parti Pirate du Canada;Bleskie;Mike
+35064;Ottawa-Sud;Parti Progressiste Canadien;Gullon;Al
+35064;Ottawa-Sud;Le Parti Vert du Canada;Kitor;Mick
+35064;Ottawa-Sud;Parti lib�ral du Canada;McGuinty;David
+35064;Ottawa-Sud;Nouveau Parti d�mocratique;McLaren;James
+35064;Ottawa-Sud;Parti conservateur du Canada;Salibi;Elie
+35065;Ottawa--Vanier;Parti lib�ral du Canada;B�langer;Mauril
+35065;Ottawa--Vanier;Nouveau Parti d�mocratique;Hach�;Trevor
+35065;Ottawa--Vanier;Parti Marxiste-L�niniste du Canada;Legeais;Christian
+35065;Ottawa--Vanier;Le Parti Vert du Canada;Rioux;Caroline
+35065;Ottawa--Vanier;Parti conservateur du Canada;Westland;Rem
+35066;Ottawa-Ouest--Nepean;Parti conservateur du Canada;Baird;John
+35066;Ottawa-Ouest--Nepean;Le Parti Vert du Canada;MacKenzie;Mark
+35066;Ottawa-Ouest--Nepean;Nouveau Parti d�mocratique;Rivier;Marlene
+35066;Ottawa-Ouest--Nepean;Parti lib�ral du Canada;Vandenbeld;Anita
+35067;Oxford;Nouveau Parti d�mocratique;Arsenault;Paul
+35067;Oxford;Le Parti Vert du Canada;Farlow;Mike
+35067;Oxford;Parti lib�ral du Canada;Lobzun;Tim
+35067;Oxford;Parti conservateur du Canada;MacKenzie;Dave
+35067;Oxford;Parti de l'H�ritage Chr�tien du Canada;Markus;John
+35068;Parkdale--High Park;Parti de l'H�ritage Chr�tien du Canada;Borkowski;Andrew
+35068;Parkdale--High Park;Parti Marxiste-L�niniste du Canada;Gershuny;Lorne
+35068;Parkdale--High Park;Parti lib�ral du Canada;Kennedy;Gerard
+35068;Parkdale--High Park;Nouveau Parti d�mocratique;Nash;Peggy
+35068;Parkdale--High Park;Le Parti Vert du Canada;Newton;Sarah
+35068;Parkdale--High Park;Parti Marijuana;Parker;Terry
+35068;Parkdale--High Park;Parti conservateur du Canada;Train;Taylor
+35069;Parry Sound--Muskoka;Ind�pendant;Carmichael;David
+35069;Parry Sound--Muskoka;Parti conservateur du Canada;Clement;Tony
+35069;Parry Sound--Muskoka;Le Parti Vert du Canada;Hodgson;Glen
+35069;Parry Sound--Muskoka;Parti Marxiste-L�niniste du Canada;Smith;Albert Gray
+35069;Parry Sound--Muskoka;Parti lib�ral du Canada;Waters;Cindy
+35069;Parry Sound--Muskoka;Nouveau Parti d�mocratique;Wilson;Wendy
+35070;Perth--Wellington;Le Parti Vert du Canada;Cowling;John
+35070;Perth--Wellington;Parti de l'H�ritage Chr�tien du Canada;DeVries;Irma N
+35070;Perth--Wellington;Parti lib�ral du Canada;McTavish;Bob
+35070;Perth--Wellington;Nouveau Parti d�mocratique;Papenburg;Ellen
+35070;Perth--Wellington;Parti conservateur du Canada;Schellenberger;Gary
+35071;Peterborough;Parti action canadienne;Bates;Michael
+35071;Peterborough;Le Parti Vert du Canada;Bell;Michael
+35071;Peterborough;Parti conservateur du Canada;Del Mastro;Dean
+35071;Peterborough;Parti lib�ral du Canada;McGregor;Betsy
+35071;Peterborough;Nouveau Parti d�mocratique;Nickle;Dave
+35071;Peterborough;Aucune appartenance;Scott;Gordon
+35072;Pickering--Scarborough-Est;Parti conservateur du Canada;Chisu;Corneliu
+35072;Pickering--Scarborough-Est;Parti lib�ral du Canada;McTeague;Dan
+35072;Pickering--Scarborough-Est;Nouveau Parti d�mocratique;Moffat;Andrea
+35072;Pickering--Scarborough-Est;Le Parti Vert du Canada;Smith;Kevin
+35073;Prince Edward--Hastings;Ind�pendant;Hickey;Tim
+35073;Prince Edward--Hastings;Parti conservateur du Canada;Kramp;Daryl
+35073;Prince Edward--Hastings;Le Parti Vert du Canada;Larkin;Patrick
+35073;Prince Edward--Hastings;Nouveau Parti d�mocratique;McMahon;Michael
+35073;Prince Edward--Hastings;Parti Progressiste Canadien;Skinner;Andrew
+35073;Prince Edward--Hastings;Parti lib�ral du Canada;Tinsley;Peter
+35074;Renfrew--Nipissing--Pembroke;Nouveau Parti d�mocratique;Burton;Eric
+35074;Renfrew--Nipissing--Pembroke;Ind�pendant;Clouthier;Hec
+35074;Renfrew--Nipissing--Pembroke;Parti conservateur du Canada;Gallant;Cheryl
+35074;Renfrew--Nipissing--Pembroke;Parti lib�ral du Canada;Tabbert;Christine
+35074;Renfrew--Nipissing--Pembroke;Le Parti Vert du Canada;Van Schie;Roseanne
+35075;Richmond Hill;Nouveau Parti d�mocratique;DeVita;Adam
+35075;Richmond Hill;Le Parti Vert du Canada;Hastings;Cameron W.
+35075;Richmond Hill;Parti conservateur du Canada;Menegakis;Costas
+35075;Richmond Hill;Parti lib�ral du Canada;Wilfert;Bryon
+35076;St. Catharines;Parti de l'H�ritage Chr�tien du Canada;Bylsma;Dave
+35076;St. Catharines;Parti conservateur du Canada;Dykstra;Rick
+35076;St. Catharines;Parti lib�ral du Canada;Gill;Andrew
+35076;St. Catharines;Le Parti Vert du Canada;Mooradian;Jennifer
+35076;St. Catharines;Parti communiste du Canada;Waziruddin;Saleh
+35076;St. Catharines;Nouveau Parti d�mocratique;Williams;Mike
+35077;St. Paul's;Parti lib�ral du Canada;Bennett;Carolyn
+35077;St. Paul's;Parti conservateur du Canada;Harquail;Maureen
+35077;St. Paul's;Parti Libertarien du Canada;Kittredge;John
+35077;St. Paul's;Le Parti Vert du Canada;McGarva;Jim
+35077;St. Paul's;Nouveau Parti d�mocratique;Molls;William
+35078;Sarnia--Lambton;Parti conservateur du Canada;Davidson;Pat
+35078;Sarnia--Lambton;Parti de l'H�ritage Chr�tien du Canada;Desormeaux-Malm;Christopher
+35078;Sarnia--Lambton;Parti lib�ral du Canada;Fugard;Tim
+35078;Sarnia--Lambton;Le Parti Vert du Canada;van Bodegom;Tim
+35078;Sarnia--Lambton;Nouveau Parti d�mocratique;White;Brian
+35079;Sault Ste. Marie;Parti conservateur du Canada;Hayes;Bryan
+35079;Sault Ste. Marie;Le Parti Vert du Canada;Macmichael;Luke
+35079;Sault Ste. Marie;Nouveau Parti d�mocratique;Martin;Tony
+35079;Sault Ste. Marie;Parti lib�ral du Canada;Provenzano;Christian
+35079;Sault Ste. Marie;Parti de l'H�ritage Chr�tien du Canada;Riauka;Randy
+35079;Sault Ste. Marie;Parti Marxiste-L�niniste du Canada;Taffarel;Mike
+35080;Scarborough--Agincourt;Parti lib�ral du Canada;Karygiannis;Jim
+35080;Scarborough--Agincourt;Nouveau Parti d�mocratique;Patchell;Nancy
+35080;Scarborough--Agincourt;Le Parti Vert du Canada;Thompson;Pauline
+35080;Scarborough--Agincourt;Parti conservateur du Canada;Tsai;Harry
+35081;Scarborough-Centre;Parti lib�ral du Canada;Cannis;John
+35081;Scarborough-Centre;Nouveau Parti d�mocratique;Hundt;Natalie
+35081;Scarborough-Centre;Parti conservateur du Canada;James;Roxanne
+35081;Scarborough-Centre;Le Parti Vert du Canada;Ng;Ella
+35082;Scarborough--Guildwood;Le Parti Vert du Canada;Bartley;Alonzo
+35082;Scarborough--Guildwood;Ind�pendant;Coulbeck;Paul
+35082;Scarborough--Guildwood;Parti conservateur du Canada;Konkel;Chuck
+35082;Scarborough--Guildwood;Parti lib�ral du Canada;McKay;John
+35082;Scarborough--Guildwood;Nouveau Parti d�mocratique;Ouellette;Danielle
+35083;Scarborough--Rouge River;Ind�pendant;Balack;Mark
+35083;Scarborough--Rouge River;Parti conservateur du Canada;Gallyot;Marlene
+35083;Scarborough--Rouge River;Parti lib�ral du Canada;Sarkar;Rana
+35083;Scarborough--Rouge River;Le Parti Vert du Canada;Singh;George B.
+35083;Scarborough--Rouge River;Nouveau Parti d�mocratique;Sitsabaiesan;Rathika
+35084;Scarborough-Sud-Ouest;Le Parti Vert du Canada;Dixon;Stefan
+35084;Scarborough-Sud-Ouest;Nouveau Parti d�mocratique;Harris;Dan
+35084;Scarborough-Sud-Ouest;Parti conservateur du Canada;Paranchothy;Gavan
+35084;Scarborough-Sud-Ouest;Parti lib�ral du Canada;Simson;Michelle
+35085;Simcoe--Grey;Nouveau Parti d�mocratique;Austin;Katy
+35085;Simcoe--Grey;Parti action canadienne;Cochrane;Gord
+35085;Simcoe--Grey;Aucune appartenance;Guergis;Helena
+35085;Simcoe--Grey;Parti conservateur du Canada;Leitch;Kellie
+35085;Simcoe--Grey;Le Parti Vert du Canada;Metheral;Jace
+35085;Simcoe--Grey;Parti lib�ral du Canada;Smardenka;Alex
+35085;Simcoe--Grey;Parti de l'H�ritage Chr�tien du Canada;Vander Zaag;Peter
+35086;Simcoe-Nord;Nouveau Parti d�mocratique;Banigan;Richard
+35086;Simcoe-Nord;Parti lib�ral du Canada;Clarke;Steve
+35086;Simcoe-Nord;Parti de l'H�ritage Chr�tien du Canada;Kooger;Adrian
+35086;Simcoe-Nord;Le Parti Vert du Canada;Powell;Valerie
+35086;Simcoe-Nord;Parti conservateur du Canada;Stanton;Bruce
+35087;Stormont--Dundas--South Glengarry;Parti lib�ral du Canada;Clement;Bernadette
+35087;Stormont--Dundas--South Glengarry;Parti Libertarien du Canada;Donnelly;Darcy Neal
+35087;Stormont--Dundas--South Glengarry;Parti conservateur du Canada;Lauzon;Guy
+35087;Stormont--Dundas--South Glengarry;Nouveau Parti d�mocratique;Leclerc;Mario
+35087;Stormont--Dundas--South Glengarry;Le Parti Vert du Canada;Walsh;Wyatt Joseph
+35088;Sudbury;Parti lib�ral du Canada;Hartman;Carol
+35088;Sudbury;First Peoples National Party of Canada;Morin;Will
+35088;Sudbury;Ind�pendant;Popescu;J. David
+35088;Sudbury;Parti conservateur du Canada;Slade;Fred
+35088;Sudbury;Nouveau Parti d�mocratique;Thibeault;Glenn
+35088;Sudbury;Le Parti Vert du Canada;Twilley;Fred
+35089;Thornhill;Parti conservateur du Canada;Kent;Peter
+35089;Thornhill;Le Parti Vert du Canada;Koehl;Norbert
+35089;Thornhill;Parti lib�ral du Canada;Mock;Karen
+35089;Thornhill;Nouveau Parti d�mocratique;Strelchik;Simon
+35089;Thornhill;Animal Alliance Environment Voters Party of Canada;White;Liz
+35090;Thunder Bay--Rainy River;Parti lib�ral du Canada;Boshcoff;Ken
+35090;Thunder Bay--Rainy River;Parti conservateur du Canada;Comuzzi-Stehmann;Moe
+35090;Thunder Bay--Rainy River;Nouveau Parti d�mocratique;Rafferty;John
+35090;Thunder Bay--Rainy River;Le Parti Vert du Canada;Shields;Ed
+35091;Thunder Bay--Superior-Nord;Parti Marijuana;Carri�re;Denis A.
+35091;Thunder Bay--Superior-Nord;Parti lib�ral du Canada;Fricot;Yves
+35091;Thunder Bay--Superior-Nord;Parti conservateur du Canada;Harvey;Richard
+35091;Thunder Bay--Superior-Nord;Nouveau Parti d�mocratique;Hyer;Bruce
+35091;Thunder Bay--Superior-Nord;Le Parti Vert du Canada;Kyle;Scot
+35092;Timmins--Baie James;Nouveau Parti d�mocratique;Angus;Charlie
+35092;Timmins--Baie James;Le Parti Vert du Canada;Bennett;Lisa
+35092;Timmins--Baie James;Parti conservateur du Canada;Greenberg;Bill
+35092;Timmins--Baie James;Parti lib�ral du Canada;Wood;Marilyn
+35093;Toronto-Centre;Parti Libertarien du Canada;Falardeau;Judi
+35093;Toronto-Centre;Parti Marxiste-L�niniste du Canada;Fernandez;Philip
+35093;Toronto-Centre;Parti communiste du Canada;Holliday;Catherine
+35093;Toronto-Centre;Le Parti Vert du Canada;Michelson;Ellen
+35093;Toronto-Centre;Parti conservateur du Canada;Moore;Kevin
+35093;Toronto-Centre;Parti lib�ral du Canada;Rae;Bob
+35093;Toronto-Centre;Nouveau Parti d�mocratique;Wallace;Susan
+35093;Toronto-Centre;Ind�pendant;Yazdanfar;Bahman
+35094;Toronto--Danforth;Animal Alliance Environment Voters Party of Canada;Crawford;Marie
+35094;Toronto--Danforth;Parti lib�ral du Canada;Lang;Andrew
+35094;Toronto--Danforth;Nouveau Parti d�mocratique;Layton;Jack
+35094;Toronto--Danforth;Le Parti Vert du Canada;Mugnatto-Hamu;Adriana
+35094;Toronto--Danforth;Parti conservateur du Canada;von Koenig;Katarina
+35095;Trinity--Spadina;Le Parti Vert du Canada;Barney;Rachel
+35095;Trinity--Spadina;Parti Libertarien du Canada;Brown;Chester
+35095;Trinity--Spadina;Nouveau Parti d�mocratique;Chow;Olivia
+35095;Trinity--Spadina;Parti lib�ral du Canada;Innes;Christine
+35095;Trinity--Spadina;Parti Marxiste-L�niniste du Canada;Lin;Nick
+35095;Trinity--Spadina;Parti conservateur du Canada;Siow;Gin
+35096;Vaughan;Parti conservateur du Canada;Fantino;Julian
+35096;Vaughan;Parti lib�ral du Canada;Ferri;Mario
+35096;Vaughan;Nouveau Parti d�mocratique;Pratt;Mark
+35096;Vaughan;Le Parti Vert du Canada;Rodriguez-Larrain;Claudia
+35097;Welland;Nouveau Parti d�mocratique;Allen;Malcolm
+35097;Welland;Ind�pendant;Game;Ray
+35097;Welland;Parti lib�ral du Canada;Maloney;John
+35097;Welland;Parti de l'H�ritage Chr�tien du Canada;Vangoolen;David
+35097;Welland;Parti conservateur du Canada;Villella;Leanna
+35097;Welland;Parti Marxiste-L�niniste du Canada;Walker;Ron J.
+35097;Welland;Le Parti Vert du Canada;Williamson;Robin
+35098;Wellington--Halton Hills;Le Parti Vert du Canada;Bouteiller;Brent
+35098;Wellington--Halton Hills;Parti conservateur du Canada;Chong;Michael
+35098;Wellington--Halton Hills;Parti lib�ral du Canada;Peters;Barry
+35098;Wellington--Halton Hills;Parti de l'H�ritage Chr�tien du Canada;Streutker;Jeffrey
+35098;Wellington--Halton Hills;Nouveau Parti d�mocratique;Zavarella;Anastasia
+35099;Whitby--Oshawa;Parti lib�ral du Canada;Bardens;Trevor
+35099;Whitby--Oshawa;Parti conservateur du Canada;Flaherty;Jim
+35099;Whitby--Oshawa;Le Parti Vert du Canada;Harrison;Rebecca
+35099;Whitby--Oshawa;Parti Libertarien du Canada;Insang;Josh
+35099;Whitby--Oshawa;Nouveau Parti d�mocratique;McAuliffe;Trish
+35100;Willowdale;Parti lib�ral du Canada;Hall Findlay;Martha
+35100;Willowdale;Parti conservateur du Canada;Leung;Chungsen
+35100;Willowdale;Nouveau Parti d�mocratique;Mollahasani;Mehdi
+35101;Windsor--Tecumseh;Parti Marxiste-L�niniste du Canada;Chesnik;Laura
+35101;Windsor--Tecumseh;Nouveau Parti d�mocratique;Comartin;Joe
+35101;Windsor--Tecumseh;Parti conservateur du Canada;Ghanam;Denise
+35101;Windsor--Tecumseh;Parti lib�ral du Canada;Kusmierczyk;Irek
+35101;Windsor--Tecumseh;Le Parti Vert du Canada;Prestanski;Kyle
+35102;Windsor-Ouest;Parti lib�ral du Canada;Deveau;Melanie
+35102;Windsor-Ouest;Le Parti Vert du Canada;Fox;Alishia
+35102;Windsor-Ouest;Parti conservateur du Canada;Lumley;Lisa
+35102;Windsor-Ouest;Nouveau Parti d�mocratique;Masse;Brian
+35102;Windsor-Ouest;Parti Marxiste-L�niniste du Canada;Villamizar;Margaret
+35103;York-Centre;Parti conservateur du Canada;Adler;Mark
+35103;York-Centre;Nouveau Parti d�mocratique;Brownlee;Nick
+35103;York-Centre;Parti lib�ral du Canada;Dryden;Ken
+35103;York-Centre;Le Parti Vert du Canada;Frei;Rosemary
+35104;York--Simcoe;Le Parti Vert du Canada;Dewar;John
+35104;York--Simcoe;Nouveau Parti d�mocratique;Gerl;Sylvia
+35104;York--Simcoe;Parti de l'H�ritage Chr�tien du Canada;Gunn;Vicki
+35104;York--Simcoe;Parti Uni du Canada;Pisani;Paul
+35104;York--Simcoe;Parti conservateur du Canada;Van Loan;Peter
+35104;York--Simcoe;Parti lib�ral du Canada;Wesley-Esquimaux;Cynthia
+35105;York-Sud--Weston;Le Parti Vert du Canada;Day;Sonny
+35105;York-Sud--Weston;Parti conservateur du Canada;Saweczko;Jilian
+35105;York-Sud--Weston;Nouveau Parti d�mocratique;Sullivan;Mike
+35105;York-Sud--Weston;Parti lib�ral du Canada;Tonks;Alan
+35106;York-Ouest;Nouveau Parti d�mocratique;Manfrini;Giulio
+35106;York-Ouest;Parti de l'H�ritage Chr�tien du Canada;Otura;George Okoth
+35106;York-Ouest;Parti lib�ral du Canada;Sgro;Judy
+35106;York-Ouest;Parti action canadienne;Smitherman;Arthur
+35106;York-Ouest;Le Parti Vert du Canada;Tibbin;Unblind Kheper Keseb
+35106;York-Ouest;Parti conservateur du Canada;Walters;Audrey
+46001;Brandon--Souris;Le Parti Vert du Canada;Barnes;Dave
+46001;Brandon--Souris;Nouveau Parti d�mocratique;Bouch�;John
+46001;Brandon--Souris;Parti lib�ral du Canada;Penner;Wes
+46001;Brandon--Souris;Parti conservateur du Canada;Tweed;Merv
+46002;Charleswood--St. James--Assiniboia;Parti lib�ral du Canada;Clement;Rob
+46002;Charleswood--St. James--Assiniboia;Le Parti Vert du Canada;Enns;Denali
+46002;Charleswood--St. James--Assiniboia;Parti conservateur du Canada;Fletcher;Steven
+46002;Charleswood--St. James--Assiniboia;Nouveau Parti d�mocratique;Paulley;Tom
+46003;Churchill;Nouveau Parti d�mocratique;Ashton;Niki
+46003;Churchill;Parti conservateur du Canada;Daudrich;Wally
+46003;Churchill;Parti lib�ral du Canada;Garrioch;Sydney
+46003;Churchill;Le Parti Vert du Canada;Spence;Alberteen
+46004;Dauphin--Swan River--Marquette;Parti lib�ral du Canada;Menzies;Wendy
+46004;Dauphin--Swan River--Marquette;Nouveau Parti d�mocratique;Osborne;Cheryl
+46004;Dauphin--Swan River--Marquette;Parti conservateur du Canada;Sopuck;Robert
+46004;Dauphin--Swan River--Marquette;Le Parti Vert du Canada;Storey;Kate
+46005;Elmwood--Transcona;Nouveau Parti d�mocratique;Maloway;Jim
+46005;Elmwood--Transcona;Parti lib�ral du Canada;Niemczyk;Ilona
+46005;Elmwood--Transcona;Parti conservateur du Canada;Toet;Lawrence
+46005;Elmwood--Transcona;Le Parti Vert du Canada;Young;Ellen
+46006;Kildonan--St. Paul;Parti lib�ral du Canada;Andres;Victor
+46006;Kildonan--St. Paul;Nouveau Parti d�mocratique;Devine;Rachelle
+46006;Kildonan--St. Paul;Ind�pendant;Hiebert;Eduard
+46006;Kildonan--St. Paul;Ind�pendant;Ryall;Brett
+46006;Kildonan--St. Paul;Parti conservateur du Canada;Smith;Joy
+46006;Kildonan--St. Paul;Le Parti Vert du Canada;Weinberg;Alon David
+46007;Portage--Lisgar;Nouveau Parti d�mocratique;Alli;Mohamed
+46007;Portage--Lisgar;Parti de l'H�ritage Chr�tien du Canada;Dondo;Jerome
+46007;Portage--Lisgar;Le Parti Vert du Canada;Friesen;Matthew
+46007;Portage--Lisgar;Parti conservateur du Canada;Hoeppner;Candice
+46007;Portage--Lisgar;Parti lib�ral du Canada;Willard;M.J.
+46008;Provencher;Le Parti Vert du Canada;Gibson;Janine
+46008;Provencher;Parti lib�ral du Canada;Hayward;Terry
+46008;Provencher;Parti Pirate du Canada;Lim;Ric
+46008;Provencher;Nouveau Parti d�mocratique;Mackling;Al
+46008;Provencher;Parti de l'H�ritage Chr�tien du Canada;Reimer;David
+46008;Provencher;Parti conservateur du Canada;Toews;Vic
+46009;Saint-Boniface;Parti conservateur du Canada;Glover;Shelly
+46009;Saint-Boniface;Nouveau Parti d�mocratique;Miniely;Patrice
+46009;Saint-Boniface;Le Parti Vert du Canada;Payette;Marc
+46009;Saint-Boniface;Parti lib�ral du Canada;Simard;Raymond
+46010;Selkirk--Interlake;Parti conservateur du Canada;Bezan;James
+46010;Selkirk--Interlake;Parti lib�ral du Canada;Geisler;Duncan
+46010;Selkirk--Interlake;Nouveau Parti d�mocratique;Palsson;Sean
+46010;Selkirk--Interlake;Le Parti Vert du Canada;Winstone;Don
+46011;Winnipeg-Centre;Nouveau Parti d�mocratique;Martin;Pat
+46011;Winnipeg-Centre;Parti conservateur du Canada;Pitura;Bev
+46011;Winnipeg-Centre;Parti communiste du Canada;Rankin;Darrell
+46011;Winnipeg-Centre;Le Parti Vert du Canada;Romanow;Jacqueline
+46011;Winnipeg-Centre;Parti lib�ral du Canada;Wise;Allan
+46012;Winnipeg-Nord;Nouveau Parti d�mocratique;Blaikie;Rebecca
+46012;Winnipeg-Nord;Le Parti Vert du Canada;Harvie;John
+46012;Winnipeg-Nord;Parti communiste du Canada;Komarniski;Frank
+46012;Winnipeg-Nord;Parti lib�ral du Canada;Lamoureux;Kevin
+46012;Winnipeg-Nord;Parti conservateur du Canada;Matejicka;Ann
+46013;Winnipeg-Sud;Parti conservateur du Canada;Bruinooge;Rod
+46013;Winnipeg-Sud;Parti lib�ral du Canada;Duguid;Terry
+46013;Winnipeg-Sud;Nouveau Parti d�mocratique;Gaudreau;Dave
+46013;Winnipeg-Sud;Le Parti Vert du Canada;McIntyre;Caitlin
+46014;Winnipeg-Centre-Sud;Parti conservateur du Canada;Bateman;Joyce
+46014;Winnipeg-Centre-Sud;Ind�pendant;Froese;Lyndon B.
+46014;Winnipeg-Centre-Sud;Ind�pendant;Henderson;Matt
+46014;Winnipeg-Centre-Sud;Nouveau Parti d�mocratique;Lewycky;Dennis
+46014;Winnipeg-Centre-Sud;Le Parti Vert du Canada;McNeil;Joshua
+46014;Winnipeg-Centre-Sud;Parti lib�ral du Canada;Neville;Anita
+47001;Battlefords--Lloydminster;Le Parti Vert du Canada;Kratchmer;Norbert
+47001;Battlefords--Lloydminster;Parti lib�ral du Canada;LaPlante;Jordan
+47001;Battlefords--Lloydminster;Parti conservateur du Canada;Ritz;Gerry
+47001;Battlefords--Lloydminster;Nouveau Parti d�mocratique;Tait;Glenn
+47002;Blackstrap;Nouveau Parti d�mocratique;Moore;Darien
+47002;Blackstrap;Le Parti Vert du Canada;Setyo;Shawn
+47002;Blackstrap;Parti lib�ral du Canada;Walker;Deborah J.
+47002;Blackstrap;Parti conservateur du Canada;Yelich;Lynne
+47003;Desneth�--Missinippi--Rivi�re Churchill;Parti conservateur du Canada;Clarke;Rob Gordon
+47003;Desneth�--Missinippi--Rivi�re Churchill;Nouveau Parti d�mocratique;Joseph;Lawrence
+47003;Desneth�--Missinippi--Rivi�re Churchill;Parti lib�ral du Canada;Lafond;Gabe
+47003;Desneth�--Missinippi--Rivi�re Churchill;Le Parti Vert du Canada;Morin;George
+47004;Cypress Hills--Grasslands;Parti conservateur du Canada;Anderson;David
+47004;Cypress Hills--Grasslands;Parti lib�ral du Canada;Filson;Duane
+47004;Cypress Hills--Grasslands;Nouveau Parti d�mocratique;Peterson;Trevor
+47004;Cypress Hills--Grasslands;Le Parti Vert du Canada;Scott;Helmi
+47005;Palliser;Parti conservateur du Canada;Boughen;Ray
+47005;Palliser;Parti lib�ral du Canada;Collicott;Russ
+47005;Palliser;Nouveau Parti d�mocratique;Evanchuk;Noah Patrick
+47005;Palliser;Le Parti Vert du Canada;Shasko;Larissa
+47006;Prince Albert;Parti action canadienne;Batley;Craig Leonard
+47006;Prince Albert;Le Parti Vert du Canada;Brazier;Myk
+47006;Prince Albert;Parti conservateur du Canada;Hoback;Randy
+47006;Prince Albert;Nouveau Parti d�mocratique;Mushinski;Valerie
+47006;Prince Albert;Parti lib�ral du Canada;Wassill;Ron
+47007;Regina--Lumsden--Lake Centre;Parti conservateur du Canada;Lukiwski;Tom
+47007;Regina--Lumsden--Lake Centre;Parti lib�ral du Canada;Lysack;Monica
+47007;Regina--Lumsden--Lake Centre;Le Parti Vert du Canada;Patterson;Billy
+47007;Regina--Lumsden--Lake Centre;Nouveau Parti d�mocratique;Sklar;Brian
+47008;Regina--Qu'Appelle;Ind�pendant;Breti;Jeff
+47008;Regina--Qu'Appelle;Le Parti Vert du Canada;Chatterson;Greg
+47008;Regina--Qu'Appelle;Nouveau Parti d�mocratique;Clipsham;Fred
+47008;Regina--Qu'Appelle;Parti lib�ral du Canada;Miller;Jackie
+47008;Regina--Qu'Appelle;Parti conservateur du Canada;Scheer;Andrew
+47009;Saskatoon--Humboldt;Le Parti Vert du Canada;Finley;Sandra
+47009;Saskatoon--Humboldt;Parti lib�ral du Canada;Hill;Darren
+47009;Saskatoon--Humboldt;Nouveau Parti d�mocratique;Kouri;Denise
+47009;Saskatoon--Humboldt;Ind�pendant;Pankiw;Jim
+47009;Saskatoon--Humboldt;Parti conservateur du Canada;Trost;Brad
+47010;Saskatoon--Rosetown--Biggar;Parti conservateur du Canada;Block;Kelly
+47010;Saskatoon--Rosetown--Biggar;Parti lib�ral du Canada;Reaney;Lee
+47010;Saskatoon--Rosetown--Biggar;Le Parti Vert du Canada;Strelioff;Vicki
+47010;Saskatoon--Rosetown--Biggar;Nouveau Parti d�mocratique;Wiebe;Nettie
+47011;Saskatoon--Wanuskewin;Le Parti Vert du Canada;Bigland-Pritchard;Mark
+47011;Saskatoon--Wanuskewin;Nouveau Parti d�mocratique;Parry;John
+47011;Saskatoon--Wanuskewin;Parti conservateur du Canada;Vellacott;Maurice
+47011;Saskatoon--Wanuskewin;Parti lib�ral du Canada;Zipchen;Patricia
+47012;Souris--Moose Mountain;Nouveau Parti d�mocratique;Arthur;Allan
+47012;Souris--Moose Mountain;Parti lib�ral du Canada;Borrowman;Gerald
+47012;Souris--Moose Mountain;Le Parti Vert du Canada;Deptuck;Bob
+47012;Souris--Moose Mountain;Parti conservateur du Canada;Komarnicki;Ed
+47013;Wascana;Le Parti Vert du Canada;Clary;Bill
+47013;Wascana;Parti lib�ral du Canada;Goodale;Ralph
+47013;Wascana;Parti conservateur du Canada;Shields;Ian
+47013;Wascana;Nouveau Parti d�mocratique;Spooner;Marc
+47014;Yorkton--Melville;Parti lib�ral du Canada;Andreychuk;Kash
+47014;Yorkton--Melville;Parti conservateur du Canada;Breitkreuz;Garry
+47014;Yorkton--Melville;Le Parti Vert du Canada;Hughes;Elaine
+47014;Yorkton--Melville;Nouveau Parti d�mocratique;Ottenbreit;Douglas
+48001;Fort McMurray--Athabasca;Le Parti Vert du Canada;Asterisk;Jule
+48001;Fort McMurray--Athabasca;Parti conservateur du Canada;Jean;Brian
+48001;Fort McMurray--Athabasca;Nouveau Parti d�mocratique;Wilting;Berend
+48001;Fort McMurray--Athabasca;Parti lib�ral du Canada;Young;Karen
+48002;Calgary-Est;Nouveau Parti d�mocratique;Brown;Al
+48002;Calgary-Est;Parti communiste du Canada;Devine;Jason
+48002;Calgary-Est;Le Parti Vert du Canada;Milton;Scott W.
+48002;Calgary-Est;Parti conservateur du Canada;Obhrai;Deepak
+48002;Calgary-Est;Parti lib�ral du Canada;Petrunic;Josipa
+48003;Calgary-Centre-Nord;Parti Marxiste-L�niniste du Canada;Askin;Peggy
+48003;Calgary-Centre-Nord;Le Parti Vert du Canada;MacIntosh;Heather
+48003;Calgary-Centre-Nord;Parti lib�ral du Canada;Randall;Stephen James
+48003;Calgary-Centre-Nord;Parti conservateur du Canada;Rempel;Michelle
+48003;Calgary-Centre-Nord;Nouveau Parti d�mocratique;Vargis;Paul
+48004;Calgary-Nord-Est;Parti Marxiste-L�niniste du Canada;Blanchard;Daniel
+48004;Calgary-Nord-Est;Le Parti Vert du Canada;Brown-Eckersley;Sheila
+48004;Calgary-Nord-Est;Parti conservateur du Canada;Shory;Devinder
+48004;Calgary-Nord-Est;Nouveau Parti d�mocratique;Singh;Colette
+48004;Calgary-Nord-Est;Parti lib�ral du Canada;Stewart;Cam
+48005;Calgary--Nose Hill;Parti conservateur du Canada;Ablonczy;Diane
+48005;Calgary--Nose Hill;Nouveau Parti d�mocratique;Anderson;Collin
+48005;Calgary--Nose Hill;Le Parti Vert du Canada;Hajj;Tony
+48005;Calgary--Nose Hill;Parti lib�ral du Canada;McLeod;Margaret
+48006;Calgary-Centre;Le Parti Vert du Canada;Hamilton;William
+48006;Calgary-Centre;Nouveau Parti d�mocratique;Montgomery;Donna Marlis
+48006;Calgary-Centre;Parti lib�ral du Canada;Pollock;Jennifer
+48006;Calgary-Centre;Parti conservateur du Canada;Richardson;Lee
+48007;Calgary-Sud-Est;Western Block Party;Fromm;Paul
+48007;Calgary-Sud-Est;Ind�pendant;Grochowski;Antoni
+48007;Calgary-Sud-Est;Parti conservateur du Canada;Kenney;Jason
+48007;Calgary-Sud-Est;Parti lib�ral du Canada;MacPhee;Brian N.
+48007;Calgary-Sud-Est;Nouveau Parti d�mocratique;Oates;Kirk
+48007;Calgary-Sud-Est;Le Parti Vert du Canada;Spencer;Brett
+48008;Calgary-Sud-Ouest;Le Parti Vert du Canada;Christie;Kelly
+48008;Calgary-Sud-Ouest;Parti conservateur du Canada;Harper;Stephen J
+48008;Calgary-Sud-Ouest;Ind�pendant;Heather;Larry R.
+48008;Calgary-Sud-Ouest;Nouveau Parti d�mocratique;Heffernan;Holly
+48008;Calgary-Sud-Ouest;Parti lib�ral du Canada;Lamontagne;Marlene
+48009;Calgary-Ouest;Parti conservateur du Canada;Anders;Robert
+48009;Calgary-Ouest;Parti lib�ral du Canada;Kinch;Janice
+48009;Calgary-Ouest;Nouveau Parti d�mocratique;Knowles;Shawna
+48009;Calgary-Ouest;Parti Marxiste-L�niniste du Canada;Vachon;Andr�
+48009;Calgary-Ouest;Le Parti Vert du Canada;Wagner;Anna Lisa
+48010;Crowfoot;Parti de l'H�ritage Chr�tien du Canada;Groenendijk;Gerard
+48010;Crowfoot;Parti lib�ral du Canada;Harb;Omar
+48010;Crowfoot;Nouveau Parti d�mocratique;Parker;Ellen
+48010;Crowfoot;Le Parti Vert du Canada;Schellenberg;Konrad
+48010;Crowfoot;Parti conservateur du Canada;Sorenson;Kevin A
+48010;Crowfoot;Ind�pendant;Turner;John C.
+48011;Edmonton--Mill Woods--Beaumont;Nouveau Parti d�mocratique;Bailey;Nadine
+48011;Edmonton--Mill Woods--Beaumont;Le Parti Vert du Canada;Baxter;Christa
+48011;Edmonton--Mill Woods--Beaumont;Parti lib�ral du Canada;Butler;Mike
+48011;Edmonton--Mill Woods--Beaumont;Parti conservateur du Canada;Lake;Mike
+48011;Edmonton--Mill Woods--Beaumont;Parti communiste du Canada;Rankin;Naomi
+48011;Edmonton--Mill Woods--Beaumont;Parti Pirate du Canada;Schaffrick;Brent
+48012;Edmonton-Centre;Nouveau Parti d�mocratique;Cardinal;Lewis
+48012;Edmonton-Centre;Parti conservateur du Canada;Hawn;Laurie
+48012;Edmonton-Centre;Parti lib�ral du Canada;MacDonald;Mary
+48012;Edmonton-Centre;Parti Marxiste-L�niniste du Canada;Morton;Peggy
+48012;Edmonton-Centre;Le Parti Vert du Canada;Parker;David James
+48012;Edmonton-Centre;Parti Pirate du Canada;Paulson;Mikkel
+48013;Edmonton-Est;Le Parti Vert du Canada;Capnerhurst;Trey
+48013;Edmonton-Est;Parti conservateur du Canada;Goldring;Peter
+48013;Edmonton-Est;Nouveau Parti d�mocratique;Martin;Ray
+48013;Edmonton-Est;Parti lib�ral du Canada;Ruda;Shafik
+48014;Edmonton--Leduc;Parti lib�ral du Canada;Fahlman;Richard
+48014;Edmonton--Leduc;Le Parti Vert du Canada;Kennedy;Valerie
+48014;Edmonton--Leduc;Nouveau Parti d�mocratique;Medvedev;Artem
+48014;Edmonton--Leduc;Parti conservateur du Canada;Rajotte;James
+48015;Edmonton--St. Albert;Le Parti Vert du Canada;Johnston;Peter
+48015;Edmonton--St. Albert;Nouveau Parti d�mocratique;LaBelle;Brian
+48015;Edmonton--St. Albert;Parti conservateur du Canada;Rathgeber;Brent
+48015;Edmonton--St. Albert;Parti lib�ral du Canada;Taron;Kevin
+48016;Edmonton--Sherwood Park;Ind�pendant;Ford;James
+48016;Edmonton--Sherwood Park;Nouveau Parti d�mocratique;Scott;Mike
+48016;Edmonton--Sherwood Park;Western Block Party;St. Laurent;Paul
+48016;Edmonton--Sherwood Park;Parti lib�ral du Canada;Szostak;Rick
+48016;Edmonton--Sherwood Park;Parti conservateur du Canada;Uppal;Tim
+48016;Edmonton--Sherwood Park;Le Parti Vert du Canada;Vallee;Chris
+48017;Edmonton--Spruce Grove;Parti conservateur du Canada;Ambrose;Rona
+48017;Edmonton--Spruce Grove;Parti lib�ral du Canada;Austin;Chris
+48017;Edmonton--Spruce Grove;Nouveau Parti d�mocratique;Chaulk-Stokes;Catherine
+48017;Edmonton--Spruce Grove;Le Parti Vert du Canada;Lund;Joshua
+48018;Edmonton--Strathcona;Nouveau Parti d�mocratique;Duncan;Linda
+48018;Edmonton--Strathcona;Le Parti Vert du Canada;Fehr;Andrew
+48018;Edmonton--Strathcona;Parti conservateur du Canada;Hastman;Ryan
+48018;Edmonton--Strathcona;Parti Marxiste-L�niniste du Canada;Hunter;Kevan
+48018;Edmonton--Strathcona;Ind�pendant;Murphy;Kyle
+48018;Edmonton--Strathcona;Parti lib�ral du Canada;Sinclair;Matthew
+48018;Edmonton--Strathcona;Ind�pendant;White;Christopher
+48019;Lethbridge;Le Parti Vert du Canada;Bartlett;Cailin
+48019;Lethbridge;Parti de l'H�ritage Chr�tien du Canada;Capp;Geoffrey
+48019;Lethbridge;Parti lib�ral du Canada;Cormican;Michael
+48019;Lethbridge;Parti conservateur du Canada;Hillyer;Jim
+48019;Lethbridge;Nouveau Parti d�mocratique;Sandilands;Mark
+48020;Macleod;Parti Progressiste Canadien;Carrigan;Brad
+48020;Macleod;Nouveau Parti d�mocratique;Giles;Janine
+48020;Macleod;Parti lib�ral du Canada;Hankel;Nicole
+48020;Macleod;Parti conservateur du Canada;Menzies;Ted
+48020;Macleod;Le Parti Vert du Canada;Nagy;Attila
+48020;Macleod;Parti de l'H�ritage Chr�tien du Canada;Slingerland;Marc
+48021;Medicine Hat;Parti lib�ral du Canada;Boucher;Norm
+48021;Medicine Hat;Le Parti Vert du Canada;Murray;Graham
+48021;Medicine Hat;Parti conservateur du Canada;Payne;LaVar
+48021;Medicine Hat;Nouveau Parti d�mocratique;Perrier;Dennis
+48021;Medicine Hat;Parti de l'H�ritage Chr�tien du Canada;VandeStroet;Frans
+48022;Peace River;Parti Rhinoc�ros;Eckstrom;Donovan
+48022;Peace River;Parti lib�ral du Canada;Ganton;Corina
+48022;Peace River;Le Parti Vert du Canada;Kamieniecki;Wayne John
+48022;Peace River;Ind�pendant;Toews;Russ
+48022;Peace River;Nouveau Parti d�mocratique;Villebrun;Jennifer
+48022;Peace River;Parti conservateur du Canada;Warkentin;Chris
+48023;Red Deer;Parti conservateur du Canada;Dreeshen;Earl
+48023;Red Deer;Parti lib�ral du Canada;Lineker;Andrew
+48023;Red Deer;Le Parti Vert du Canada;Sisson;Mason Connor
+48023;Red Deer;Nouveau Parti d�mocratique;Somerville;Stuart
+48024;Vegreville--Wainwright;Parti conservateur du Canada;Benoit;Leon
+48024;Vegreville--Wainwright;Le Parti Vert du Canada;Munsey;William
+48024;Vegreville--Wainwright;Parti de l'H�ritage Chr�tien du Canada;Sokalski;Matthew
+48024;Vegreville--Wainwright;Nouveau Parti d�mocratique;Stone;Ray A
+48024;Vegreville--Wainwright;Parti lib�ral du Canada;Williams;Ron
+48025;Westlock--St. Paul;Parti lib�ral du Canada;Fox;Rob
+48025;Westlock--St. Paul;Le Parti Vert du Canada;Grant;Lisa
+48025;Westlock--St. Paul;Nouveau Parti d�mocratique;Henderson;Lyndsey Ellen
+48025;Westlock--St. Paul;Parti conservateur du Canada;Storseth;Brian
+48026;Wetaskiwin;Parti lib�ral du Canada;Anderson;Christopher
+48026;Wetaskiwin;Parti conservateur du Canada;Calkins;Blaine
+48026;Wetaskiwin;Le Parti Vert du Canada;Johnston;Robert
+48026;Wetaskiwin;Nouveau Parti d�mocratique;Robson;Tim
+48027;Wild Rose;Nouveau Parti d�mocratique;Horvath;Jeff
+48027;Wild Rose;Le Parti Vert du Canada;MacDonald;Mike
+48027;Wild Rose;Parti lib�ral du Canada;Reilly;John Douglas
+48027;Wild Rose;Parti conservateur du Canada;Richards;Blake
+48027;Wild Rose;Parti de l'H�ritage Chr�tien du Canada;Vanden Broek;Randy
+48028;Yellowhead;Parti action canadienne;Brade;Melissa
+48028;Yellowhead;Parti conservateur du Canada;Merrifield;Rob
+48028;Yellowhead;Le Parti Vert du Canada;Schaefer;Monika
+48028;Yellowhead;Parti lib�ral du Canada;Siezmagraff;Zack
+48028;Yellowhead;Parti de l'H�ritage Chr�tien du Canada;Strydhorst;Jacob
+48028;Yellowhead;Nouveau Parti d�mocratique;Wells;Mark
+59001;Abbotsford;Le Parti Vert du Canada;Bryce;Daniel
+59001;Abbotsford;Parti conservateur du Canada;Fast;Ed
+59001;Abbotsford;Parti lib�ral du Canada;Hardin;Madeleine
+59001;Abbotsford;Parti Marxiste-L�niniste du Canada;MacKay;David
+59001;Abbotsford;Nouveau Parti d�mocratique;Murray;David Alan
+59002;Burnaby--Douglas;Parti Libertarien du Canada;Dahlby;Lewis Clarke
+59002;Burnaby--Douglas;Parti communiste du Canada;Gidora;George
+59002;Burnaby--Douglas;Parti conservateur du Canada;Leung;Ronald
+59002;Burnaby--Douglas;Parti lib�ral du Canada;Low;Ken
+59002;Burnaby--Douglas;Le Parti Vert du Canada;Merlo;Adrianne
+59002;Burnaby--Douglas;Parti Marxiste-L�niniste du Canada;Sproule;Brian
+59002;Burnaby--Douglas;Nouveau Parti d�mocratique;Stewart;Kennedy
+59003;Burnaby--New Westminster;Parti lib�ral du Canada;Evans;Garth
+59003;Burnaby--New Westminster;Parti conservateur du Canada;Forseth;Paul
+59003;Burnaby--New Westminster;Nouveau Parti d�mocratique;Julian;Peter
+59003;Burnaby--New Westminster;Le Parti Vert du Canada;McLaren;Carrie
+59003;Burnaby--New Westminster;Parti Libertarien du Canada;Pierce;Tyler
+59003;Burnaby--New Westminster;Parti Marxiste-L�niniste du Canada;Theriault;Joseph
+59004;Cariboo--Prince George;Parti conservateur du Canada;Harris;Dick
+59004;Cariboo--Prince George;Parti lib�ral du Canada;Lalli;Sangeeta
+59004;Cariboo--Prince George;Le Parti Vert du Canada;Redl;Heidi
+59004;Cariboo--Prince George;Ind�pendant;Ronan;Jon
+59004;Cariboo--Prince George;Parti de l'H�ritage Chr�tien du Canada;Thiessen;Henry
+59004;Cariboo--Prince George;Parti Rhinoc�ros;Turner;Jordan
+59004;Cariboo--Prince George;Nouveau Parti d�mocratique;Van Barneveld;Jon
+59005;Chilliwack--Fraser Canyon;Western Block Party;Edwards;Clive
+59005;Chilliwack--Fraser Canyon;Le Parti Vert du Canada;Hoskins;Jamie
+59005;Chilliwack--Fraser Canyon;Parti lib�ral du Canada;Janzen;Diane
+59005;Chilliwack--Fraser Canyon;Parti Marxiste-L�niniste du Canada;O'Donnell;Dorothy-Jean
+59005;Chilliwack--Fraser Canyon;Nouveau Parti d�mocratique;O'Mahony;Gwen
+59005;Chilliwack--Fraser Canyon;Parti conservateur du Canada;Strahl;Mark
+59006;Delta--Richmond-Est;Parti lib�ral du Canada;Beesley;Alan
+59006;Delta--Richmond-Est;Parti conservateur du Canada;Findlay;Kerry-Lynne
+59006;Delta--Richmond-Est;Le Parti Vert du Canada;Laird;Duane
+59006;Delta--Richmond-Est;Parti Libertarien du Canada;Monds;Jeff
+59006;Delta--Richmond-Est;Aucune appartenance;Shavluk;John
+59006;Delta--Richmond-Est;Nouveau Parti d�mocratique;Slater;Nic
+59007;Pitt Meadows--Maple Ridge--Mission;Parti lib�ral du Canada;Bhuller;Mandeep
+59007;Pitt Meadows--Maple Ridge--Mission;Parti conservateur du Canada;Kamp;Randy
+59007;Pitt Meadows--Maple Ridge--Mission;Nouveau Parti d�mocratique;Speirs;Craig
+59007;Pitt Meadows--Maple Ridge--Mission;Le Parti Vert du Canada;Tam;Peter
+59008;Esquimalt--Juan de Fuca;Parti conservateur du Canada;DeSouza;Troy
+59008;Esquimalt--Juan de Fuca;Nouveau Parti d�mocratique;Garrison;Randall C.
+59008;Esquimalt--Juan de Fuca;Ind�pendant;Lesosky;Louis James
+59008;Esquimalt--Juan de Fuca;Parti action canadienne;Porter;Christopher Robert
+59008;Esquimalt--Juan de Fuca;Le Parti Vert du Canada;Salsman;Shaunna
+59008;Esquimalt--Juan de Fuca;Parti lib�ral du Canada;Szpak;Lillian
+59009;Fleetwood--Port Kells;Parti lib�ral du Canada;Dhanoa;Pam
+59009;Fleetwood--Port Kells;Nouveau Parti d�mocratique;Fernando;Nao
+59009;Fleetwood--Port Kells;Parti conservateur du Canada;Grewal;Nina
+59009;Fleetwood--Port Kells;Parti Libertarien du Canada;Joehl;Alex
+59009;Fleetwood--Port Kells;Le Parti Vert du Canada;Saldanha;Alan
+59010;Kamloops--Thompson--Cariboo;Le Parti Vert du Canada;Cavers;Donovan Michael
+59010;Kamloops--Thompson--Cariboo;Nouveau Parti d�mocratique;Crawford;Michael David
+59010;Kamloops--Thompson--Cariboo;Parti de l'H�ritage Chr�tien du Canada;Kempling;Christopher
+59010;Kamloops--Thompson--Cariboo;Parti conservateur du Canada;McLeod;Cathy
+59010;Kamloops--Thompson--Cariboo;Parti lib�ral du Canada;Todd;Murray
+59011;Kelowna--Lake Country;Parti conservateur du Canada;Cannan;Ron
+59011;Kelowna--Lake Country;Le Parti Vert du Canada;Hooper;Alice
+59011;Kelowna--Lake Country;Nouveau Parti d�mocratique;Kalmanovitch;Tisha
+59011;Kelowna--Lake Country;Parti lib�ral du Canada;Stewart;Kris
+59012;Kootenay--Columbia;Parti lib�ral du Canada;Aitchison;Betty
+59012;Kootenay--Columbia;Ind�pendant;Bush;Brent
+59012;Kootenay--Columbia;Le Parti Vert du Canada;Green;Bill
+59012;Kootenay--Columbia;Nouveau Parti d�mocratique;Shmigelsky;Mark
+59012;Kootenay--Columbia;Parti conservateur du Canada;Wilks;David
+59013;Langley;Parti lib�ral du Canada;Darnell;Rebecca
+59013;Langley;Nouveau Parti d�mocratique;Majkowski;Piotr
+59013;Langley;Parti Pirate du Canada;Nobbs;Craig
+59013;Langley;Le Parti Vert du Canada;Poitras;Carey Ann
+59013;Langley;Parti conservateur du Canada;Warawa;Mark
+59014;Nanaimo--Alberni;Parti Marxiste-L�niniste du Canada;Biley;Barbara
+59014;Nanaimo--Alberni;Le Parti Vert du Canada;Jespersen;Myron
+59014;Nanaimo--Alberni;Parti conservateur du Canada;Lunney;James
+59014;Nanaimo--Alberni;Nouveau Parti d�mocratique;Maartman;Zenaida
+59014;Nanaimo--Alberni;Parti lib�ral du Canada;Miller;Ren�e Amber
+59014;Nanaimo--Alberni;Parti Pirate du Canada;Schroeder;Jesse
+59014;Nanaimo--Alberni;Parti de l'H�ritage Chr�tien du Canada;Wagner;Frank
+59015;Nanaimo--Cowichan;Le Parti Vert du Canada;Benoit;Anne Marie
+59015;Nanaimo--Cowichan;Nouveau Parti d�mocratique;Crowder;Jean
+59015;Nanaimo--Cowichan;Parti Marxiste-L�niniste du Canada;East;Jack
+59015;Nanaimo--Cowichan;Parti lib�ral du Canada;Fillmore;Brian
+59015;Nanaimo--Cowichan;Parti conservateur du Canada;Koury;John
+59016;Newton--Delta-Nord;Parti lib�ral du Canada;Dhaliwal;Sukh
+59016;Newton--Delta-Nord;Parti conservateur du Canada;Fallon;Mani
+59016;Newton--Delta-Nord;Ind�pendant;Gill;Ravi S.
+59016;Newton--Delta-Nord;Parti communiste du Canada;Hammond;Samuel Frank
+59016;Newton--Delta-Nord;Nouveau Parti d�mocratique;Sims;Jinny
+59016;Newton--Delta-Nord;Le Parti Vert du Canada;Walker;Liz
+59017;New Westminster--Coquitlam;Parti conservateur du Canada;Dilworth;Diana
+59017;New Westminster--Coquitlam;Nouveau Parti d�mocratique;Donnelly;Fin
+59017;New Westminster--Coquitlam;Le Parti Vert du Canada;Helps;Rebecca
+59017;New Westminster--Coquitlam;Parti lib�ral du Canada;Lee;Ken Beck
+59017;New Westminster--Coquitlam;Parti Marxiste-L�niniste du Canada;Verrier;Roland
+59018;Okanagan--Shuswap;Le Parti Vert du Canada;Crockett;Greig
+59018;Okanagan--Shuswap;Parti lib�ral du Canada;Francis;Janna
+59018;Okanagan--Shuswap;Nouveau Parti d�mocratique;Inouye;Nikki
+59018;Okanagan--Shuswap;Parti conservateur du Canada;Mayes;Colin
+59019;North Vancouver;Nouveau Parti d�mocratique;Charrois;Michael
+59019;North Vancouver;Le Parti Vert du Canada;Dowman;Greg
+59019;North Vancouver;Ind�pendant;Jones;Nick
+59019;North Vancouver;Parti lib�ral du Canada;Noormohamed;Taleeb
+59019;North Vancouver;Parti conservateur du Canada;Saxton;Andrew
+59020;Okanagan--Coquihalla;Parti conservateur du Canada;Albas;Dan
+59020;Okanagan--Coquihalla;Le Parti Vert du Canada;Bouchard;Dan
+59020;Okanagan--Coquihalla;Nouveau Parti d�mocratique;Finnis;David
+59020;Okanagan--Coquihalla;Parti lib�ral du Canada;Kidder;John
+59020;Okanagan--Coquihalla;Ind�pendant;Upshaw;Sean
+59020;Okanagan--Coquihalla;Ind�pendant;Wittel;Dietrich
+59021;Port Moody--Westwood--Port Coquitlam;Parti Libertarien du Canada;Geddes;Paul
+59021;Port Moody--Westwood--Port Coquitlam;Nouveau Parti d�mocratique;Ireland;Mark
+59021;Port Moody--Westwood--Port Coquitlam;Le Parti Vert du Canada;Kim;Kevin
+59021;Port Moody--Westwood--Port Coquitlam;Parti lib�ral du Canada;McGillivray;Stewart
+59021;Port Moody--Westwood--Port Coquitlam;Parti conservateur du Canada;Moore;James
+59022;Prince George--Peace River;Nouveau Parti d�mocratique;Boone;Lois
+59022;Prince George--Peace River;Parti Pirate du Canada;Cot�;Jeremy
+59022;Prince George--Peace River;Le Parti Vert du Canada;Crowley;Hilary
+59022;Prince George--Peace River;Parti lib�ral du Canada;Levine;Ben
+59022;Prince George--Peace River;Parti conservateur du Canada;Zimmer;Bob
+59023;Richmond;Nouveau Parti d�mocratique;Jackaman;Dale
+59023;Richmond;Parti lib�ral du Canada;Peschisolido;Joe
+59023;Richmond;Le Parti Vert du Canada;Wolfe;Michael
+59023;Richmond;Parti conservateur du Canada;Wong;Alice
+59024;Saanich--Gulf Islands;Parti lib�ral du Canada;Hetherington;Ren�e
+59024;Saanich--Gulf Islands;Nouveau Parti d�mocratique;Loring-Kuhanga;Edith
+59024;Saanich--Gulf Islands;Parti conservateur du Canada;Lunn;Gary
+59024;Saanich--Gulf Islands;Le Parti Vert du Canada;May;Elizabeth
+59025;Skeena--Bulkley Valley;Le Parti Vert du Canada;Benham;Roger
+59025;Skeena--Bulkley Valley;Parti action canadienne;Braun;Maggie
+59025;Skeena--Bulkley Valley;Nouveau Parti d�mocratique;Cullen;Nathan Paul
+59025;Skeena--Bulkley Valley;Parti conservateur du Canada;Harmon;Clay
+59025;Skeena--Bulkley Valley;Parti de l'H�ritage Chr�tien du Canada;Taylor;Rod
+59025;Skeena--Bulkley Valley;Parti lib�ral du Canada;Warwick;Kyle
+59026;Colombie-Britannique-Southern Interior;Nouveau Parti d�mocratique;Atamanenko;Alex
+59026;Colombie-Britannique-Southern Interior;Parti conservateur du Canada;Hill;Stephen
+59026;Colombie-Britannique-Southern Interior;Le Parti Vert du Canada;Hunt;Bryan
+59026;Colombie-Britannique-Southern Interior;Parti lib�ral du Canada;Lavell;Shan
+59027;Surrey-Sud--White Rock--Cloverdale;Le Parti Vert du Canada;Colero;Larry
+59027;Surrey-Sud--White Rock--Cloverdale;Ind�pendant;Donohoe;Kevin Peter
+59027;Surrey-Sud--White Rock--Cloverdale;Ind�pendant;Hawkins;David
+59027;Surrey-Sud--White Rock--Cloverdale;Parti conservateur du Canada;Hiebert;Russ
+59027;Surrey-Sud--White Rock--Cloverdale;Nouveau Parti d�mocratique;Keeping;Susan
+59027;Surrey-Sud--White Rock--Cloverdale;Ind�pendant;Looye;Aart
+59027;Surrey-Sud--White Rock--Cloverdale;Parti Progressiste Canadien;Marlatt;Brian
+59027;Surrey-Sud--White Rock--Cloverdale;Parti de l'H�ritage Chr�tien du Canada;Schouten;Mike
+59027;Surrey-Sud--White Rock--Cloverdale;Parti lib�ral du Canada;Staub;Hardy
+59028;Surrey-Nord;Parti Libertarien du Canada;Barens;Norris
+59028;Surrey-Nord;Parti conservateur du Canada;Cadman;Dona
+59028;Surrey-Nord;Le Parti Vert du Canada;Keenan;Bernadette
+59028;Surrey-Nord;Parti de l'H�ritage Chr�tien du Canada;Pielak;Kevin
+59028;Surrey-Nord;Parti lib�ral du Canada;Purewal;Shinder
+59028;Surrey-Nord;Nouveau Parti d�mocratique;Sandhu;Jasbir
+59028;Surrey-Nord;Ind�pendant;Scott;Jamie
+59029;Vancouver-Centre;Le Parti Vert du Canada;Carr;Adriane
+59029;Vancouver-Centre;Parti conservateur du Canada;Clarke;Jennifer
+59029;Vancouver-Centre;Parti Libertarien du Canada;Clarke;John
+59029;Vancouver-Centre;Parti lib�ral du Canada;Fry;Hedy
+59029;Vancouver-Centre;Parti Marxiste-L�niniste du Canada;Hill;Michael
+59029;Vancouver-Centre;Parti Progressiste Canadien;Huenefeld;Michael
+59029;Vancouver-Centre;Parti Pirate du Canada;McCrea;Travis
+59029;Vancouver-Centre;Nouveau Parti d�mocratique;Shillington;Karen
+59030;Vancouver-Est;Parti lib�ral du Canada;Ahi;Roma
+59030;Vancouver-Est;Nouveau Parti d�mocratique;Davies;Libby
+59030;Vancouver-Est;Parti Marxiste-L�niniste du Canada;Jamieson;Anne
+59030;Vancouver-Est;Le Parti Vert du Canada;Roy;Douglas
+59030;Vancouver-Est;Parti conservateur du Canada;Yatco;Irene C.
+59031;�le de Vancouver-Nord;Ind�pendant;Draper;Jason
+59031;�le de Vancouver-Nord;Parti conservateur du Canada;Duncan;John
+59031;�le de Vancouver-Nord;Parti lib�ral du Canada;Holland;Mike
+59031;�le de Vancouver-Nord;Nouveau Parti d�mocratique;Leonard;Ronna-Rae
+59031;�le de Vancouver-Nord;Parti Marxiste-L�niniste du Canada;Martin;Frank
+59031;�le de Vancouver-Nord;Le Parti Vert du Canada;Moen;Sue
+59032;Vancouver Kingsway;Le Parti Vert du Canada;Boutin;Louise
+59032;Vancouver Kingsway;Parti communiste du Canada;Cariou;Kimball
+59032;Vancouver Kingsway;Nouveau Parti d�mocratique;Davies;Don
+59032;Vancouver Kingsway;Parti Libertarien du Canada;Kadioglu;Matt
+59032;Vancouver Kingsway;Parti conservateur du Canada;Nguyen;Trang
+59032;Vancouver Kingsway;Parti Marxiste-L�niniste du Canada;Petersen;Donna
+59032;Vancouver Kingsway;Parti lib�ral du Canada;Yuan;Wendy
+59033;Vancouver Quadra;Nouveau Parti d�mocratique;Elkins;Victor Edward
+59033;Vancouver Quadra;Parti conservateur du Canada;Meredith;Deborah
+59033;Vancouver Quadra;Parti lib�ral du Canada;Murray;Joyce
+59033;Vancouver Quadra;Le Parti Vert du Canada;Shaw;Laura-Leah
+59034;Vancouver-Sud;Parti Marxiste-L�niniste du Canada;Boylan;Charles
+59034;Vancouver-Sud;Parti lib�ral du Canada;Dosanjh;Ujjal
+59034;Vancouver-Sud;Le Parti Vert du Canada;Hakizimana;Jean de Dieu
+59034;Vancouver-Sud;Nouveau Parti d�mocratique;Wong;Meena
+59034;Vancouver-Sud;Parti conservateur du Canada;Young;Wai
+59035;Victoria;Parti lib�ral du Canada;Causton;Christopher
+59035;Victoria;Le Parti Vert du Canada;Giesbrecht;Jared
+59035;Victoria;Parti conservateur du Canada;Hunt;Patrick
+59035;Victoria;Nouveau Parti d�mocratique;Savoie;Denise
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Parti Libertarien du Canada;Audain;Tunya
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Parti Marxiste-L�niniste du Canada;Chapman;Carol Lee
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Parti action canadienne;Hartt;Doug
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Western Block Party;Holt;Allan
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Parti Progressiste Canadien;Lagass�;Roger
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Nouveau Parti d�mocratique;Platt;Terry
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Parti lib�ral du Canada;Veniez;Dan
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Le Parti Vert du Canada;Wauters;Brennan
+59036;West Vancouver--Sunshine Coast--Sea to Sky Country;Parti conservateur du Canada;Weston;John Dunbar
+60001;Yukon;Parti lib�ral du Canada;Bagnell;Larry
+60001;Yukon;Nouveau Parti d�mocratique;Barr;Kevin
+60001;Yukon;Parti conservateur du Canada;Leef;Ryan
+60001;Yukon;Le Parti Vert du Canada;Streicker;John
+61001;Western Arctic;Nouveau Parti d�mocratique;Bevington;Dennis
+61001;Western Arctic;Animal Alliance Environment Voters Party of Canada;Dawson;Bonnie
+61001;Western Arctic;Parti lib�ral du Canada;Handley;Joe
+61001;Western Arctic;Parti conservateur du Canada;Lee;Sandy
+61001;Western Arctic;Le Parti Vert du Canada;Purchase;Eli
+62001;Nunavut;Parti conservateur du Canada;Aglukkaq;Leona
+62001;Nunavut;Nouveau Parti d�mocratique;Hicks;Jack
+62001;Nunavut;Le Parti Vert du Canada;MacCallum;Scott
+62001;Nunavut;Parti lib�ral du Canada;Okalik;Paul
